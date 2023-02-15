@@ -1,0 +1,1224 @@
+[
+  {
+    "ID": 0,
+    "LABEL": "Accelerate Montana",
+    "LATITUDE": 46.86564068,
+    "LONGITUDE": -113.9770737,
+    "GROUP": "Service Site",
+    "TOTAL ORG IMPACTED": 3,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 1,
+    "LABEL": "ARC (Arlee Rehabilitation Center)",
+    "LATITUDE": 47.16195525,
+    "LONGITUDE": -114.0871546,
+    "GROUP": "Service Site",
+    "TOTAL ORG IMPACTED": 1,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 2,
+    "LABEL": "Free Verse - Missoula Writing Collaborative",
+    "LATITUDE": 46.85957067,
+    "LONGITUDE": -113.9948286,
+    "GROUP": "Service Site",
+    "TOTAL ORG IMPACTED": 8,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 3,
+    "LABEL": "Great Falls LGBTQ+ Center",
+    "LATITUDE": 47.5060302,
+    "LONGITUDE": -111.2825116,
+    "GROUP": "Service Site",
+    "TOTAL ORG IMPACTED": 11,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 4,
+    "LABEL": "IRC (International Rescue Committee)",
+    "LATITUDE": 46.87762882,
+    "LONGITUDE": -114.0195175,
+    "GROUP": "Service Site",
+    "TOTAL ORG IMPACTED": 2,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 5,
+    "LABEL": "KALICO Art Center",
+    "LATITUDE": 48.19698202,
+    "LONGITUDE": -114.3129627,
+    "GROUP": "Service Site",
+    "TOTAL ORG IMPACTED": 1,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 6,
+    "LABEL": "MCAN (Montana College Attainment Network)",
+    "LATITUDE": 46.01286226,
+    "LONGITUDE": -112.5592164,
+    "GROUP": "Service Site",
+    "TOTAL ORG IMPACTED": 1,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 7,
+    "LABEL": "Moving Mountains Foundation",
+    "LATITUDE": 46.84334668,
+    "LONGITUDE": -114.0187198,
+    "GROUP": "Service Site",
+    "TOTAL ORG IMPACTED": 6,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 8,
+    "LABEL": "Native American Achievement Center at MSUB",
+    "LATITUDE": 45.79697579,
+    "LONGITUDE": -108.5255978,
+    "GROUP": "Service Site",
+    "TOTAL ORG IMPACTED": 40,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 9,
+    "LABEL": "NCAT (National Center for Appropriate Technology)",
+    "LATITUDE": 45.98443647,
+    "LONGITUDE": -112.4865327,
+    "GROUP": "Service Site",
+    "TOTAL ORG IMPACTED": 27,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 10,
+    "LABEL": "Partner with Place",
+    "LATITUDE": 46.86204459,
+    "LONGITUDE": -113.9846398,
+    "GROUP": "Service Site",
+    "TOTAL ORG IMPACTED": 2,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 11,
+    "LABEL": "Snqweylmistn",
+    "LATITUDE": 47.51844074,
+    "LONGITUDE": -114.0976027,
+    "GROUP": "Service Site",
+    "TOTAL ORG IMPACTED": 1,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 12,
+    "LABEL": "State of Montana Arboretum",
+    "LATITUDE": 46.86076565,
+    "LONGITUDE": -113.9838833,
+    "GROUP": "Service Site",
+    "TOTAL ORG IMPACTED": 1,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 13,
+    "LABEL": "University of Montana Food Pantry",
+    "LATITUDE": 46.86088003,
+    "LONGITUDE": -113.9827811,
+    "GROUP": "Service Site",
+    "TOTAL ORG IMPACTED": 2,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 14,
+    "LABEL": "VAC (Veterans Advocate Clinic)",
+    "LATITUDE": 46.86564068,
+    "LONGITUDE": -113.9770737,
+    "GROUP": "Service Site",
+    "TOTAL ORG IMPACTED": 1,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 15,
+    "LABEL": "Accelerate Montana Rural Innovation Initiative",
+    "LATITUDE": 46.86564068,
+    "LONGITUDE": -113.9770737,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 0,
+    "Target": 15
+  },
+  {
+    "ID": 16,
+    "LABEL": "Blackfeet Community College Library",
+    "LATITUDE": 48.55186017,
+    "LONGITUDE": -113.0093722,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 0,
+    "Target": 16
+  },
+  {
+    "ID": 17,
+    "LABEL": "Dumond's Custom Furniture",
+    "LATITUDE": 46.31100695,
+    "LONGITUDE": -113.9742986,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 0,
+    "Target": 17
+  },
+  {
+    "ID": 18,
+    "LABEL": "ARC (Arlee Rehabilitation Center)",
+    "LATITUDE": 47.16195525,
+    "LONGITUDE": -114.0871546,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 1,
+    "Target": 18
+  },
+  {
+    "ID": 19,
+    "LABEL": "Missoula Writing Collaborative",
+    "LATITUDE": 46.84286339,
+    "LONGITUDE": -114.0560437,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 2,
+    "Target": 19
+  },
+  {
+    "ID": 20,
+    "LABEL": "Free Verse Writing Project",
+    "LATITUDE": 46.85957067,
+    "LONGITUDE": -113.9948286,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 2,
+    "Target": 20
+  },
+  {
+    "ID": 21,
+    "LABEL": "SPARK Arts",
+    "LATITUDE": 46.87083718,
+    "LONGITUDE": -113.9903465,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 2,
+    "Target": 21
+  },
+  {
+    "ID": 22,
+    "LABEL": "Montana Innocence Project",
+    "LATITUDE": 46.8612074,
+    "LONGITUDE": -113.9822567,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 2,
+    "Target": 22
+  },
+  {
+    "ID": 23,
+    "LABEL": "Zoo Town Arts Center",
+    "LATITUDE": 46.87187884,
+    "LONGITUDE": -113.9965429,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 2,
+    "Target": 23
+  },
+  {
+    "ID": 24,
+    "LABEL": "Young Poets",
+    "LATITUDE": null,
+    "LONGITUDE": null,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 2,
+    "Target": 24
+  },
+  {
+    "ID": 25,
+    "LABEL": "Missoula Public Library",
+    "LATITUDE": 46.86985528,
+    "LONGITUDE": -113.9898416,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 2,
+    "Target": 25
+  },
+  {
+    "ID": 26,
+    "LABEL": "Missoula Art Museum",
+    "LATITUDE": 46.87245848,
+    "LONGITUDE": -113.9923734,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 2,
+    "Target": 26
+  },
+  {
+    "ID": 27,
+    "LABEL": "Great Falls LGBTQ+ Center",
+    "LATITUDE": 47.5060302,
+    "LONGITUDE": -111.2825116,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 3,
+    "Target": 27
+  },
+  {
+    "ID": 28,
+    "LABEL": "Great Falls College",
+    "LATITUDE": 47.48600004,
+    "LONGITUDE": -111.2698227,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 3,
+    "Target": 28
+  },
+  {
+    "ID": 29,
+    "LABEL": "C.M. Russell High School",
+    "LATITUDE": 47.52027038,
+    "LONGITUDE": -111.3192399,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 3,
+    "Target": 29
+  },
+  {
+    "ID": 30,
+    "LABEL": "Montana State University College of Nursing (Great Falls)",
+    "LATITUDE": 47.48862379,
+    "LONGITUDE": -111.3003589,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 3,
+    "Target": 30
+  },
+  {
+    "ID": 31,
+    "LABEL": "Alliance For Youth",
+    "LATITUDE": 47.49239362,
+    "LONGITUDE": -111.2505824,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 3,
+    "Target": 31
+  },
+  {
+    "ID": 32,
+    "LABEL": "Rominger Counseling",
+    "LATITUDE": null,
+    "LONGITUDE": null,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 3,
+    "Target": 32
+  },
+  {
+    "ID": 33,
+    "LABEL": "Cascade County Juvenile Youth Detention Center",
+    "LATITUDE": 47.48810543,
+    "LONGITUDE": -111.2632207,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 3,
+    "Target": 33
+  },
+  {
+    "ID": 34,
+    "LABEL": "Great Falls Tribune",
+    "LATITUDE": 47.50303075,
+    "LONGITUDE": -111.3086125,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 3,
+    "Target": 34
+  },
+  {
+    "ID": 35,
+    "LABEL": "Great Falls KRTV News",
+    "LATITUDE": 47.49258956,
+    "LONGITUDE": -111.3027578,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 3,
+    "Target": 35
+  },
+  {
+    "ID": 36,
+    "LABEL": "First Congregational United Church of Christ",
+    "LATITUDE": null,
+    "LONGITUDE": null,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 3,
+    "Target": 36
+  },
+  {
+    "ID": 37,
+    "LABEL": "Great Falls Counseling Association",
+    "LATITUDE": 47.49678795,
+    "LONGITUDE": -111.2904686,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 3,
+    "Target": 37
+  },
+  {
+    "ID": 38,
+    "LABEL": "IRC (International Rescue COmmittee)",
+    "LATITUDE": 46.87762882,
+    "LONGITUDE": -114.0195175,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 4,
+    "Target": 38
+  },
+  {
+    "ID": 39,
+    "LABEL": "LLC (Lifelong Learning Center)",
+    "LATITUDE": 46.86903499,
+    "LONGITUDE": -114.0311628,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 4,
+    "Target": 39
+  },
+  {
+    "ID": 40,
+    "LABEL": "Kalispell Public Schools-SD #5",
+    "LATITUDE": 48.19698711,
+    "LONGITUDE": -114.3110319,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 5,
+    "Target": 40
+  },
+  {
+    "ID": 41,
+    "LABEL": "Charter College",
+    "LATITUDE": 46.85229428,
+    "LONGITUDE": -114.0102792,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 6,
+    "Target": 41
+  },
+  {
+    "ID": 42,
+    "LABEL": "ASUM Daycare",
+    "LATITUDE": 46.8607045,
+    "LONGITUDE": -113.9832855,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 7,
+    "Target": 42
+  },
+  {
+    "ID": 43,
+    "LABEL": "Missoula International School",
+    "LATITUDE": 46.86736846,
+    "LONGITUDE": -114.0093094,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 7,
+    "Target": 43
+  },
+  {
+    "ID": 44,
+    "LABEL": "Bitterroot Early Learning Center",
+    "LATITUDE": 46.31108332,
+    "LONGITUDE": -114.1107379,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 7,
+    "Target": 44
+  },
+  {
+    "ID": 45,
+    "LABEL": "Angel Keepers Daycare",
+    "LATITUDE": 46.7750501,
+    "LONGITUDE": -114.1074386,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 7,
+    "Target": 45
+  },
+  {
+    "ID": 46,
+    "LABEL": "Peaceful Heart Preschool",
+    "LATITUDE": 46.83740409,
+    "LONGITUDE": -114.0321636,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 7,
+    "Target": 46
+  },
+  {
+    "ID": 47,
+    "LABEL": "Sussex School",
+    "LATITUDE": 46.86835672,
+    "LONGITUDE": -114.0249404,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 7,
+    "Target": 47
+  },
+  {
+    "ID": 48,
+    "LABEL": "TRIO Student Services",
+    "LATITUDE": null,
+    "LONGITUDE": null,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 8,
+    "Target": 48
+  },
+  {
+    "ID": 49,
+    "LABEL": "Billings Urban Indian Health & Wellness Center",
+    "LATITUDE": 45.79253039,
+    "LONGITUDE": -108.520199,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 8,
+    "Target": 49
+  },
+  {
+    "ID": 50,
+    "LABEL": "Rocky Mountain Tribal Leaders",
+    "LATITUDE": 45.77015372,
+    "LONGITUDE": -108.5332663,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 8,
+    "Target": 50
+  },
+  {
+    "ID": 51,
+    "LABEL": "Chippewa Cree Tribe",
+    "LATITUDE": 48.29198603,
+    "LONGITUDE": -109.8413739,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 8,
+    "Target": 51
+  },
+  {
+    "ID": 52,
+    "LABEL": "Fort Peck Tribe",
+    "LATITUDE": 48.13072125,
+    "LONGITUDE": -105.4964849,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 8,
+    "Target": 52
+  },
+  {
+    "ID": 53,
+    "LABEL": "Native American Development Corporation",
+    "LATITUDE": 45.78312006,
+    "LONGITUDE": -108.502447,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 8,
+    "Target": 53
+  },
+  {
+    "ID": 54,
+    "LABEL": "Office of Public Instruction",
+    "LATITUDE": 46.58949637,
+    "LONGITUDE": -112.0188804,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 8,
+    "Target": 54
+  },
+  {
+    "ID": 55,
+    "LABEL": "Chippewa Cree Tribe Department of Indian Education",
+    "LATITUDE": 48.29198603,
+    "LONGITUDE": -109.8413739,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 8,
+    "Target": 55
+  },
+  {
+    "ID": 56,
+    "LABEL": "MSU Bozeman Center for Bilingual and Multicultural Education",
+    "LATITUDE": 45.66754359,
+    "LONGITUDE": -111.0545675,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 8,
+    "Target": 56
+  },
+  {
+    "ID": 57,
+    "LABEL": "Fort Peck Tribe's Language and Culture Department",
+    "LATITUDE": 48.13072125,
+    "LONGITUDE": -105.4964849,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 8,
+    "Target": 57
+  },
+  {
+    "ID": 58,
+    "LABEL": "Crow Agency Public School",
+    "LATITUDE": 45.60542142,
+    "LONGITUDE": -107.4585185,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 8,
+    "Target": 58
+  },
+  {
+    "ID": 59,
+    "LABEL": "Montana Urban Indian Association",
+    "LATITUDE": 47.50863068,
+    "LONGITUDE": -111.3229203,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 8,
+    "Target": 59
+  },
+  {
+    "ID": 60,
+    "LABEL": "MSUB New Student Services",
+    "LATITUDE": 45.88248274,
+    "LONGITUDE": -108.5175319,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 8,
+    "Target": 60
+  },
+  {
+    "ID": 61,
+    "LABEL": "MSUB Financial Aid",
+    "LATITUDE": 45.88248274,
+    "LONGITUDE": -108.5175319,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 8,
+    "Target": 61
+  },
+  {
+    "ID": 62,
+    "LABEL": "MSUB TRIO",
+    "LATITUDE": 45.88248274,
+    "LONGITUDE": -108.5175319,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 8,
+    "Target": 62
+  },
+  {
+    "ID": 63,
+    "LABEL": "MSUB Disability Services",
+    "LATITUDE": 45.88248274,
+    "LONGITUDE": -108.5175319,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 8,
+    "Target": 63
+  },
+  {
+    "ID": 64,
+    "LABEL": "Skyview High School",
+    "LATITUDE": 45.83240065,
+    "LONGITUDE": -108.5155417,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 8,
+    "Target": 64
+  },
+  {
+    "ID": 65,
+    "LABEL": "MSUB Construction Management Department",
+    "LATITUDE": 45.88248274,
+    "LONGITUDE": -108.5175319,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 8,
+    "Target": 65
+  },
+  {
+    "ID": 66,
+    "LABEL": "Montana University System Native Serving Institution",
+    "LATITUDE": 46.57902381,
+    "LONGITUDE": -112.0417865,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 8,
+    "Target": 66
+  },
+  {
+    "ID": 67,
+    "LABEL": "Indian Parent Advisory Committee",
+    "LATITUDE": 45.78036313,
+    "LONGITUDE": -108.5489216,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 8,
+    "Target": 67
+  },
+  {
+    "ID": 68,
+    "LABEL": "MSUB Teaching and Learning Department",
+    "LATITUDE": 45.88248274,
+    "LONGITUDE": -108.5175319,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 8,
+    "Target": 68
+  },
+  {
+    "ID": 69,
+    "LABEL": "Montana Center for Inclusive Education",
+    "LATITUDE": 45.79581419,
+    "LONGITUDE": -108.5247078,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 8,
+    "Target": 69
+  },
+  {
+    "ID": 70,
+    "LABEL": "One Heart Warriors",
+    "LATITUDE": 45.79581419,
+    "LONGITUDE": -108.5247078,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 8,
+    "Target": 70
+  },
+  {
+    "ID": 71,
+    "LABEL": "Billings Clinic",
+    "LATITUDE": 45.79581419,
+    "LONGITUDE": -108.5247078,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 8,
+    "Target": 71
+  },
+  {
+    "ID": 72,
+    "LABEL": "Western Native Voice",
+    "LATITUDE": 45.78208956,
+    "LONGITUDE": -108.5755962,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 8,
+    "Target": 72
+  },
+  {
+    "ID": 73,
+    "LABEL": "Hardin Schools Alternative Programs",
+    "LATITUDE": 45.75024333,
+    "LONGITUDE": -107.607224,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 8,
+    "Target": 73
+  },
+  {
+    "ID": 74,
+    "LABEL": "Samira Obeid, LLC.",
+    "LATITUDE": null,
+    "LONGITUDE": null,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 8,
+    "Target": 74
+  },
+  {
+    "ID": 75,
+    "LABEL": "Island Mountain Development Corporation",
+    "LATITUDE": 48.04502166,
+    "LONGITUDE": -108.7083905,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 8,
+    "Target": 75
+  },
+  {
+    "ID": 76,
+    "LABEL": "Northern Hotel",
+    "LATITUDE": 45.78196856,
+    "LONGITUDE": -108.505359,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 8,
+    "Target": 76
+  },
+  {
+    "ID": 77,
+    "LABEL": "Hardin High School Gear Up Program",
+    "LATITUDE": 45.75024333,
+    "LONGITUDE": -107.607224,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 8,
+    "Target": 77
+  },
+  {
+    "ID": 78,
+    "LABEL": "MSUB College of Business",
+    "LATITUDE": 45.88248274,
+    "LONGITUDE": -108.5175319,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 8,
+    "Target": 78
+  },
+  {
+    "ID": 79,
+    "LABEL": "Native American Empowerment Project",
+    "LATITUDE": 45.78327584,
+    "LONGITUDE": -108.5024772,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 8,
+    "Target": 79
+  },
+  {
+    "ID": 80,
+    "LABEL": "All Nation Youth Partnership for Success",
+    "LATITUDE": 45.78321042,
+    "LONGITUDE": -108.5097987,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 8,
+    "Target": 80
+  },
+  {
+    "ID": 81,
+    "LABEL": "Chief Dull Knife College",
+    "LATITUDE": 45.62553013,
+    "LONGITUDE": -106.6646696,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 8,
+    "Target": 81
+  },
+  {
+    "ID": 82,
+    "LABEL": "MSUB Housing and Residence Life",
+    "LATITUDE": 45.88248274,
+    "LONGITUDE": -108.5175319,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 8,
+    "Target": 82
+  },
+  {
+    "ID": 83,
+    "LABEL": "MSUB Grants and Sponsored Programs",
+    "LATITUDE": 45.88248274,
+    "LONGITUDE": -108.5175319,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 8,
+    "Target": 83
+  },
+  {
+    "ID": 84,
+    "LABEL": "TRIIA",
+    "LATITUDE": 45.78345917,
+    "LONGITUDE": -108.502445,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 8,
+    "Target": 84
+  },
+  {
+    "ID": 85,
+    "LABEL": "MSUB Department of Biological and Physical Sciences",
+    "LATITUDE": 45.88248274,
+    "LONGITUDE": -108.5175319,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 8,
+    "Target": 85
+  },
+  {
+    "ID": 86,
+    "LABEL": "Montana 10 Scholar Program",
+    "LATITUDE": 46.59315992,
+    "LONGITUDE": -112.0405572,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 8,
+    "Target": 86
+  },
+  {
+    "ID": 87,
+    "LABEL": "Montana University System",
+    "LATITUDE": 46.59315992,
+    "LONGITUDE": -112.0405572,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 8,
+    "Target": 87
+  },
+  {
+    "ID": 88,
+    "LABEL": "NCAT (National Center for Appropriate Technology)",
+    "LATITUDE": 45.9843501,
+    "LONGITUDE": -112.4865923,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 9,
+    "Target": 88
+  },
+  {
+    "ID": 89,
+    "LABEL": "Clark Fork Watershed Education Program",
+    "LATITUDE": 47.83715948,
+    "LONGITUDE": -115.5920639,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 9,
+    "Target": 89
+  },
+  {
+    "ID": 90,
+    "LABEL": "EcoAdapt",
+    "LATITUDE": 46.01170252,
+    "LONGITUDE": -112.5574969,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 9,
+    "Target": 90
+  },
+  {
+    "ID": 91,
+    "LABEL": "Butte-Silver Bow County",
+    "LATITUDE": 46.36071617,
+    "LONGITUDE": -112.6926372,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 9,
+    "Target": 91
+  },
+  {
+    "ID": 92,
+    "LABEL": "Flathead Lakers",
+    "LATITUDE": 47.69486333,
+    "LONGITUDE": -114.1641703,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 9,
+    "Target": 92
+  },
+  {
+    "ID": 93,
+    "LABEL": "Kalispell City Council",
+    "LATITUDE": 48.19694431,
+    "LONGITUDE": -114.3111394,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 9,
+    "Target": 93
+  },
+  {
+    "ID": 94,
+    "LABEL": "Montana Technological University",
+    "LATITUDE": 46.0115199,
+    "LONGITUDE": -112.5576793,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 9,
+    "Target": 94
+  },
+  {
+    "ID": 95,
+    "LABEL": "Missoula Economic Partnership",
+    "LATITUDE": 46.8743705,
+    "LONGITUDE": -113.9922631,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 9,
+    "Target": 95
+  },
+  {
+    "ID": 96,
+    "LABEL": "Red Lodge City Government",
+    "LATITUDE": 45.1859615,
+    "LONGITUDE": -109.2534237,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 9,
+    "Target": 96
+  },
+  {
+    "ID": 97,
+    "LABEL": "Opportunity Link",
+    "LATITUDE": 48.55154561,
+    "LONGITUDE": -109.6774491,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 9,
+    "Target": 97
+  },
+  {
+    "ID": 98,
+    "LABEL": "Havre Park County Environmental Council",
+    "LATITUDE": 45.66185584,
+    "LONGITUDE": -110.5573588,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 9,
+    "Target": 98
+  },
+  {
+    "ID": 99,
+    "LABEL": "Fort Peck Office of Environmental Protection",
+    "LATITUDE": 48.12420101,
+    "LONGITUDE": -105.1845936,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 9,
+    "Target": 99
+  },
+  {
+    "ID": 100,
+    "LABEL": "Butte Community Council",
+    "LATITUDE": 46.01403955,
+    "LONGITUDE": -112.5360146,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 9,
+    "Target": 100
+  },
+  {
+    "ID": 101,
+    "LABEL": "Whitehall Garden Club",
+    "LATITUDE": 45.87005899,
+    "LONGITUDE": -112.0998604,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 9,
+    "Target": 101
+  },
+  {
+    "ID": 102,
+    "LABEL": "Planning and Zoning Division of the City of Red Lodge",
+    "LATITUDE": 45.18674209,
+    "LONGITUDE": -109.245983,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 9,
+    "Target": 102
+  },
+  {
+    "ID": 103,
+    "LABEL": "KBOW",
+    "LATITUDE": 45.98323336,
+    "LONGITUDE": -112.527631,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 9,
+    "Target": 103
+  },
+  {
+    "ID": 104,
+    "LABEL": "KXLF",
+    "LATITUDE": 46.00076793,
+    "LONGITUDE": -112.5395754,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 9,
+    "Target": 104
+  },
+  {
+    "ID": 105,
+    "LABEL": "Northwest Energy",
+    "LATITUDE": null,
+    "LONGITUDE": null,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 9,
+    "Target": 105
+  },
+  {
+    "ID": 106,
+    "LABEL": "Southwest Community Health Center",
+    "LATITUDE": 45.99863154,
+    "LONGITUDE": -112.5418575,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 9,
+    "Target": 106
+  },
+  {
+    "ID": 107,
+    "LABEL": "Headfram Spirits",
+    "LATITUDE": 46.01200687,
+    "LONGITUDE": -112.5396123,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 9,
+    "Target": 107
+  },
+  {
+    "ID": 108,
+    "LABEL": "Pioneer Technical Services",
+    "LATITUDE": 45.99923107,
+    "LONGITUDE": -112.5394404,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 9,
+    "Target": 108
+  },
+  {
+    "ID": 109,
+    "LABEL": "BSB Department of Environment and Reclamation Services",
+    "LATITUDE": 46.01480154,
+    "LONGITUDE": -112.5388441,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 9,
+    "Target": 109
+  },
+  {
+    "ID": 110,
+    "LABEL": "BSB Health Department",
+    "LATITUDE": 45.99921422,
+    "LONGITUDE": -112.5355653,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 9,
+    "Target": 110
+  },
+  {
+    "ID": 111,
+    "LABEL": "BSB Planning Office",
+    "LATITUDE": 46.01536888,
+    "LONGITUDE": -112.5387345,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 9,
+    "Target": 111
+  },
+  {
+    "ID": 112,
+    "LABEL": "BSB Economic Development Office",
+    "LATITUDE": 46.01478769,
+    "LONGITUDE": -112.5388096,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 9,
+    "Target": 112
+  },
+  {
+    "ID": 113,
+    "LABEL": "BSB Board of Commissioners",
+    "LATITUDE": 46.01478769,
+    "LONGITUDE": -112.5388096,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 9,
+    "Target": 113
+  },
+  {
+    "ID": 114,
+    "LABEL": "MT Department of Natural Resources and Conservation",
+    "LATITUDE": 46.8591642,
+    "LONGITUDE": -114.045553,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 9,
+    "Target": 114
+  },
+  {
+    "ID": 115,
+    "LABEL": "Partner with Place",
+    "LATITUDE": 46.86204459,
+    "LONGITUDE": -113.9846398,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 10,
+    "Target": 115
+  },
+  {
+    "ID": 116,
+    "LABEL": "Missoula Downtown Association",
+    "LATITUDE": 46.87064016,
+    "LONGITUDE": -113.992019,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 10,
+    "Target": 116
+  },
+  {
+    "ID": 117,
+    "LABEL": "Snqweylmistn",
+    "LATITUDE": 47.51844074,
+    "LONGITUDE": -114.0976027,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 11,
+    "Target": 117
+  },
+  {
+    "ID": 118,
+    "LABEL": "State of Montana Arboretum",
+    "LATITUDE": 46.86076565,
+    "LONGITUDE": -113.9838833,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 12,
+    "Target": 118
+  },
+  {
+    "ID": 119,
+    "LABEL": "University of Montana Food Pantry",
+    "LATITUDE": 46.86088003,
+    "LONGITUDE": -113.9827811,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 13,
+    "Target": 119
+  },
+  {
+    "ID": 120,
+    "LABEL": "ASUM Bear Necessities",
+    "LATITUDE": 46.86073121,
+    "LONGITUDE": -113.9833067,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 13,
+    "Target": 120
+  },
+  {
+    "ID": 121,
+    "LABEL": "VAC (Veterans Advocate Clinic)",
+    "LATITUDE": 46.86564068,
+    "LONGITUDE": -113.9770737,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORG IMPACTED": "",
+    "Source": 14,
+    "Target": 121
+  }
+]
+
+

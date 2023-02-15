@@ -1,0 +1,17 @@
+{
+  "data": {
+    "url": "MT-border.json",
+    "format": {
+      "type": "topojson",
+      "feature": "cb_2015_montana_county_20m"
+    }
+  },
+  "projection": {
+    "type": "mercator"
+  },
+  "mark": {
+    "type": "geoshape",
+    "fill": "lightgray",
+    "stroke": "white"
+  }
+},

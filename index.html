@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    <meta charset="UTF-8">
+    <title>MTCC's Impact on MT Organizations</title>
+    <!--Help with centering Montana and getting coordinates to properly project from below link.-->
+    <!--https://stackoverflow.com/questions/71654359/automatically-resize-vega-map-based-on-lat-long-or-geojson-->
+    <style>
+        body {
+            background-color: #f8f8f8;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Hypothesis here</h1>
+    <br><br><br>
+
+    <div id="vis1"></div>
+    <div id="vis2"></div>
+
+    <br><br><br>
+    <ul>Data from: MTCC yearly reporting for the 2021-2022 service year.</ul>
+    <ul><a href="https://github.com/deldersveld/topojson/blob/master/countries/us-states/MT-30-montana-counties.json" target="_blank" rel="noopener norefferrer">Montana Map Data</a></ul>
+</body>
+
+<script>
+    const spec1 = "updated-visual.json";
+    vegaEmbed("#vis1", spec1, {"actions": false})
+        // result.view provides access to the Vega View API
+        .then(result => console.log(result))
+        .catch(console.warn)
+
+    const spec2 = "box-and-whisker.json";
+    vegaEmbed("#vis2", spec2, {"actions": false})
+        // result.view provides access to the Vega View API
+        .then(result => console.log(result))
+        .catch(console.warn)
+</script>
+
+
+
+</html>

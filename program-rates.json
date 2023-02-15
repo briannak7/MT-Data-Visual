@@ -1,0 +1,392 @@
+[
+  {
+    "ID": 0,
+    "LABEL": "Accelerate Montana",
+    "LATITUDE": 46.86564068,
+    "LONGITUDE": -113.9770737,
+    "GROUP": "VISTA",
+    "TOTAL ORG IMPACTED": 3,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 1,
+    "LABEL": "ARC (Arlee Rehabilitation Center)",
+    "LATITUDE": 47.16195525,
+    "LONGITUDE": -114.0871546,
+    "GROUP": "VISTA",
+    "TOTAL ORG IMPACTED": 1,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 2,
+    "LABEL": "Free Verse - Missoula Writing Collaborative",
+    "LATITUDE": 46.85957067,
+    "LONGITUDE": -113.9948286,
+    "GROUP": "VISTA",
+    "TOTAL ORG IMPACTED": 8,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 3,
+    "LABEL": "Great Falls LGBTQ+ Center",
+    "LATITUDE": 47.5060302,
+    "LONGITUDE": -111.2825116,
+    "GROUP": "VISTA",
+    "TOTAL ORG IMPACTED": 11,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 4,
+    "LABEL": "IRC (International Rescue Committee)",
+    "LATITUDE": 46.87762882,
+    "LONGITUDE": -114.0195175,
+    "GROUP": "VISTA",
+    "TOTAL ORG IMPACTED": 2,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 5,
+    "LABEL": "KALICO Art Center",
+    "LATITUDE": 48.19698202,
+    "LONGITUDE": -114.3129627,
+    "GROUP": "VISTA",
+    "TOTAL ORG IMPACTED": 1,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 6,
+    "LABEL": "MCAN (Montana College Attainment Network)",
+    "LATITUDE": 46.01286226,
+    "LONGITUDE": -112.5592164,
+    "GROUP": "VISTA",
+    "TOTAL ORG IMPACTED": 1,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 7,
+    "LABEL": "Moving Mountains Foundation",
+    "LATITUDE": 46.84334668,
+    "LONGITUDE": -114.0187198,
+    "GROUP": "VISTA",
+    "TOTAL ORG IMPACTED": 6,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 8,
+    "LABEL": "Native American Achievement Center at MSUB",
+    "LATITUDE": 45.79697579,
+    "LONGITUDE": -108.5255978,
+    "GROUP": "VISTA",
+    "TOTAL ORG IMPACTED": 40,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 9,
+    "LABEL": "NCAT (National Center for Appropriate Technology)",
+    "LATITUDE": 45.98443647,
+    "LONGITUDE": -112.4865327,
+    "GROUP": "VISTA",
+    "TOTAL ORG IMPACTED": 27,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 10,
+    "LABEL": "Partner with Place",
+    "LATITUDE": 46.86204459,
+    "LONGITUDE": -113.9846398,
+    "GROUP": "VISTA",
+    "TOTAL ORG IMPACTED": 2,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 11,
+    "LABEL": "Snqweylmistn",
+    "LATITUDE": 47.51844074,
+    "LONGITUDE": -114.0976027,
+    "GROUP": "VISTA",
+    "TOTAL ORG IMPACTED": 1,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 12,
+    "LABEL": "State of Montana Arboretum",
+    "LATITUDE": 46.86076565,
+    "LONGITUDE": -113.9838833,
+    "GROUP": "VISTA",
+    "TOTAL ORG IMPACTED": 1,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 13,
+    "LABEL": "University of Montana Food Pantry",
+    "LATITUDE": 46.86088003,
+    "LONGITUDE": -113.9827811,
+    "GROUP": "VISTA",
+    "TOTAL ORG IMPACTED": 2,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 14,
+    "LABEL": "VAC (Veterans Advocate Clinic)",
+    "LATITUDE": 46.86564068,
+    "LONGITUDE": -113.9770737,
+    "GROUP": "VISTA",
+    "TOTAL ORG IMPACTED": 1,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 0,
+    "LABEL": "Art Missoula- Global and Cultural Affairs",
+    "LATITUDE": 46.9335464,
+    "LONGITUDE": -114.0350784,
+    "GROUP": "State",
+    "TOTAL ORG IMPACTED": 5,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 1,
+    "LABEL": "Blackfeet Community College",
+    "LATITUDE": 48.55195069,
+    "LONGITUDE": -113.0093085,
+    "GROUP": "State",
+    "TOTAL ORG IMPACTED": 2,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 2,
+    "LABEL": "Butte High School (MT Tech)",
+    "LATITUDE": 46.00865483,
+    "LONGITUDE": -112.5334549,
+    "GROUP": "State",
+    "TOTAL ORG IMPACTED": 2,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 3,
+    "LABEL": "Capital High School (MT Tech)",
+    "LATITUDE": 46.61436335,
+    "LONGITUDE": -112.0484467,
+    "GROUP": "State",
+    "TOTAL ORG IMPACTED": 26,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 4,
+    "LABEL": "Cultivating Connections Montana",
+    "LATITUDE": 46.20292596,
+    "LONGITUDE": -114.156604,
+    "GROUP": "State",
+    "TOTAL ORG IMPACTED": 7,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 5,
+    "LABEL": "Dawson Community College",
+    "LATITUDE": 47.0854599,
+    "LONGITUDE": -104.7250156,
+    "GROUP": "State",
+    "TOTAL ORG IMPACTED": 5,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 6,
+    "LABEL": "EmPower Place (Missoula Food Bank & Community Center)",
+    "LATITUDE": 46.87213334,
+    "LONGITUDE": -114.0228862,
+    "GROUP": "State",
+    "TOTAL ORG IMPACTED": 3,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 7,
+    "LABEL": "Fort Peck Tribal Museum & Archives",
+    "LATITUDE": 48.12400764,
+    "LONGITUDE": -105.1844756,
+    "GROUP": "State",
+    "TOTAL ORG IMPACTED": 2,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 8,
+    "LABEL": "Frenchtown High School",
+    "LATITUDE": 47.02192179,
+    "LONGITUDE": -114.2421868,
+    "GROUP": "State",
+    "TOTAL ORG IMPACTED": 0,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 9,
+    "LABEL": "Garden City Harvest",
+    "LATITUDE": 46.87528482,
+    "LONGITUDE": -114.0224281,
+    "GROUP": "State",
+    "TOTAL ORG IMPACTED": 1,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 10,
+    "LABEL": "Girl Scouts of Billings",
+    "LATITUDE": 45.78448786,
+    "LONGITUDE": -108.574041,
+    "GROUP": "State",
+    "TOTAL ORG IMPACTED": 6,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 11,
+    "LABEL": "Great Falls College MSU",
+    "LATITUDE": 47.48604853,
+    "LONGITUDE": -111.2698073,
+    "GROUP": "State",
+    "TOTAL ORG IMPACTED": 10,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 12,
+    "LABEL": "Heartism",
+    "LATITUDE": 46.31565885,
+    "LONGITUDE": -114.1152115,
+    "GROUP": "State",
+    "TOTAL ORG IMPACTED": 3,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 13,
+    "LABEL": "Historical Museum at Fort Missoula",
+    "LATITUDE": 46.84369232,
+    "LONGITUDE": -114.0629096,
+    "GROUP": "State",
+    "TOTAL ORG IMPACTED": 12,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 14,
+    "LABEL": "International Rescue Committee",
+    "LATITUDE": 46.84116721,
+    "LONGITUDE": -114.0184922,
+    "GROUP": "State",
+    "TOTAL ORG IMPACTED": 25,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 15,
+    "LABEL": "MAPS",
+    "LATITUDE": 46.24453945,
+    "LONGITUDE": -114.1620171,
+    "GROUP": "State",
+    "TOTAL ORG IMPACTED": 22,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 16,
+    "LABEL": "Missoula Art Museum",
+    "LATITUDE": 46.87247687,
+    "LONGITUDE": -113.992366,
+    "GROUP": "State",
+    "TOTAL ORG IMPACTED": 0,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 17,
+    "LABEL": "Montana State University Billings Upward Bound",
+    "LATITUDE": 45.79657582,
+    "LONGITUDE": -108.5201921,
+    "GROUP": "State",
+    "TOTAL ORG IMPACTED": 13,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 18,
+    "LABEL": "Poplar High School",
+    "LATITUDE": 48.11133934,
+    "LONGITUDE": -105.2038853,
+    "GROUP": "State",
+    "TOTAL ORG IMPACTED": 7,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 19,
+    "LABEL": "Salish Kootenai College Upward Bound",
+    "LATITUDE": 47.59752839,
+    "LONGITUDE": -114.1117745,
+    "GROUP": "State",
+    "TOTAL ORG IMPACTED": 10,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 20,
+    "LABEL": "Soft Landing Missoula",
+    "LATITUDE": 46.85768751,
+    "LONGITUDE": -114.0118457,
+    "GROUP": "State",
+    "TOTAL ORG IMPACTED": 1,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 21,
+    "LABEL": "SpectrUM Discovery Area",
+    "LATITUDE": 46.86996974,
+    "LONGITUDE": -113.9898082,
+    "GROUP": "State",
+    "TOTAL ORG IMPACTED": 26,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 22,
+    "LABEL": "University of Montana Upward Bound",
+    "LATITUDE": 46.86545093,
+    "LONGITUDE": -113.9757535,
+    "GROUP": "State",
+    "TOTAL ORG IMPACTED": 0,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 23,
+    "LABEL": "YWCA Missoula",
+    "LATITUDE": 46.8674307,
+    "LONGITUDE": -114.0240605,
+    "GROUP": "State",
+    "TOTAL ORG IMPACTED": 2,
+    "Source": "",
+    "Target": ""
+  }
+  ]

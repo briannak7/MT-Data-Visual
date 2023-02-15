@@ -1,0 +1,189 @@
+{
+  "$schema": "https://vega.github.io/schema/vega/v5.json",
+  "description": "Interactive map of U.S. airport connections in 2008.",
+  "width": 900,
+  "height": 560,
+  "padding": {"top": 25, "left": 0, "right": 0, "bottom": 0},
+  "autosize": "none",
+
+  "signals": [
+    {
+      "name": "scale", "value": 5000,
+      "bind": {"input": "range", "min": 500, "max": 5000}
+    },
+    {
+      "name": "translateX", "value": 1150,
+      "bind": {"input": "range", "min": -500, "max": 2200}
+    },
+    {
+      "name": "translateY", "value": 1000,
+      "bind": {"input": "range", "min": -300, "max": 1700}
+    },
+    {
+      "name": "hover",
+      "value": null,
+      "on": [
+        {"events": "@cell:mouseover", "update": "datum"},
+        {"events": "@cell:mouseout", "update": "null"}
+      ]
+    },
+    {
+      "name": "cell_stroke",
+      "value": null,
+      "on": [
+        {"events": "dblclick", "update": "cell_stroke ? null : 'brown'"},
+        {"events": "mousedown!", "update": "cell_stroke"}
+      ]
+    }
+  ],
+
+  "data": [
+    {
+      "name": "montana",
+      "url": "MT-border.json",
+      "format": {"type": "topojson", "feature": "cb_2015_montana_county_20m"},
+      "transform": [
+        {
+          "type": "geopath",
+          "projection": "projection"
+        }
+      ]
+    },
+
+    {
+      "name": "VISTA",
+      "url": "VISTA-data.json",
+      "transform": [
+        {
+          "type": "filter",
+          "expr": "datum.LATITUDE && datum.LONGITUDE != null"
+        },
+        {
+          "type": "geopoint",
+          "projection": "projection",
+          "fields": ["LONGITUDE", "LATITUDE"]
+        }
+      ]
+    },
+    {
+      "name": "State",
+      "url": "State-data.json",
+      "transform": [
+        {
+          "type": "filter",
+          "expr": "datum.LATITUDE != null && datum.LONGITUDE != null"
+        },
+        {
+          "type": "geopoint",
+          "projection": "projection",
+          "fields": ["LONGITUDE", "LATITUDE"]
+        }
+      ]
+    },
+
+    {
+      "name": "VISTA routes",
+      "url": "VISTA-data.json",
+      "transform": [
+        {
+          "type": "linkpath",
+          "sourceX": "VISTA.Source",
+          "sourceY": "VISTA.Target",
+          "shape": "line"
+        }
+      ]
+    },
+    {
+      "name": "State routes",
+      "url": "State-data.json"
+    }
+  ],
+
+  "projections": [
+    {
+      "name": "projection",
+      "type": "albersUsa",
+      "scale": {"signal": "scale"},
+      "translate": [{"signal": "translateX"}, {"signal": "translateY"}]
+
+    }
+  ],
+  "marks": [
+    {
+      "type": "path",
+      "from": {"data": "montana"},
+      "encode": {
+        "enter": {
+          "fill": {"value": "#dedede"},
+          "stroke": {"value": "white"}
+        },
+        "update": {
+          "path": {"field": "path"}
+        }
+      }
+    },
+    {
+      "type": "symbol",
+      "from": {"data": "VISTA"},
+      "encode": {
+        "enter": {
+          "size":{"value": 50},
+          "fill": {"value": "#0f4c5c"},
+          "fillOpacity": {"value": 0.8},
+          "stroke": {"value": "white"},
+          "strokeWidth": {"value": 1.5}
+        },
+        "update": {
+          "x": {"field": "x"},
+          "y": {"field": "y"}
+        }
+      }
+    },
+    {
+      "type": "symbol",
+      "from": {"data": "State"},
+      "encode": {
+        "enter": {
+          "size":{"value": 50},
+          "fill": {"value": "#bb3e03"},
+          "fillOpacity": {"value": 0.8},
+          "stroke": {"value": "white"},
+          "strokeWidth": {"value": 1.5}
+        },
+        "update": {
+          "x": {"field": "x"},
+          "y": {"field": "y"}
+        }
+      }
+    },
+    {
+      "type": "path",
+      "name": "cell",
+      "from": {
+        "data": "VISTA"
+      },
+      "encode": {
+        "enter": {
+          "fill": {"value": "transparent"},
+          "strokeWidth": {"value": 0.35}
+        },
+        "update": {
+          "path": {"field": "path"},
+          "stroke": {"signal": "cell_stroke"}
+        }
+      }
+    },
+    {
+      "type": "path",
+      "interactive": false,
+      "from": {"data": "VISTA routes"},
+      "encode": {
+        "enter": {
+          "path": {"field": "path"},
+          "stroke": {"value": "black"},
+          "strokeOpacity": {"value": 1}
+        }
+      }
+    }
+  ]
+}

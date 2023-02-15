@@ -1,0 +1,265 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 950,
+  "height": 650,
+  "title": {
+    "text": "Service Sites and Impacted Organizations in Montana",
+    "fontSize": 17,
+    "subtitle": "2021-2022 Service Year"
+  },
+
+  "layer": [
+    {
+      "data": {
+        "name": "MT",
+        "url": "MT-border.json",
+        "format": {
+          "type": "topojson",
+          "feature": "cb_2015_montana_county_20m"
+        }
+      },
+      "projection": {
+        "type": "albersUsa"
+      },
+      "mark": {
+        "type": "geoshape",
+        "fill": "lightgray",
+        "stroke": "white"
+      }
+    },
+
+
+    {
+      "data": {
+        "name": "VISTA",
+        "url": "VISTA-data.json"
+      },
+      "projection": {
+        "type": "albersUsa"
+      },
+      "mark": {
+        "type": "circle",
+        "tooltip": {
+          "content": "encoding"
+        }
+      },
+      "transform": [
+        {
+          "filter": "isValid(datum.LONGITUDE)"
+        }
+      ],
+      "encoding": {
+        "tooltip": [
+          {
+            "field": "LABEL",
+            "type": "nominal"
+          },
+          {
+            "field": "GROUP",
+            "type": "nominal"
+          }
+        ],
+        "latitude": {
+          "field": "LATITUDE",
+          "type": "quantitative"
+        },
+        "longitude": {
+          "field": "LONGITUDE",
+          "type": "quantitative"
+        },
+        "size": {"value": 25},
+        "color": {"value": "#0f4c5c"}
+      }
+    },
+
+    {
+      "data": {
+        "name": "State",
+        "url": "State-data.json"
+      },
+      "projection": {
+        "type": "albersUsa"
+      },
+      "mark": {
+        "type": "circle",
+        "tooltip": {
+          "content": "encoding"
+        }
+      },
+      "transform": [
+        {
+          "filter": "isValid(datum.LONGITUDE)"
+        }
+      ],
+      "encoding": {
+        "tooltip": [
+          {
+            "field": "LABEL",
+            "type": "nominal"
+          },
+          {
+            "field": "GROUP",
+            "type": "nominal"
+          }
+        ],
+        "latitude": {
+          "field": "LATITUDE",
+          "type": "quantitative"
+        },
+        "longitude": {
+          "field": "LONGITUDE",
+          "type": "quantitative"
+        },
+        "size": {
+          "value": 25
+        },
+        "color": {
+          "value": "#bb3e03"
+        }
+      }
+    },
+
+
+
+    {
+      "mark": {"type": "rule", "color": "#2E8FA7", "opacity": 0.5},
+      "data": {"url": "VISTA-data.json"},
+      "transform": [
+        {
+          "lookup": "Source",
+          "from": {
+            "data": {"url": "VISTA-data.json"},
+            "key": "Source",
+            "fields": [
+              "LATITUDE",
+              "LONGITUDE"
+            ]
+          },
+          "as": ["Latitude","Longitude"]
+        },
+        {
+          "lookup": "Target",
+          "from": {
+            "data": {
+              "url": "VISTA-data.json"
+            },
+            "key": "Target",
+            "fields": [
+              "LATITUDE",
+              "LONGITUDE"
+            ]
+          },
+          "as": ["lat2","lon2"]
+        }
+      ],
+      "encoding": {
+        "latitude": {
+          "field": "Latitude"
+        },
+        "longitude": {
+          "field": "Longitude"
+        },
+        "latitude2": {
+          "field": "lat2"
+        },
+        "longitude2": {
+          "field": "lon2"
+        }
+      }
+    },
+    {
+      "mark": {"type": "rule", "color": "#E27948", "opacity": 0.5},
+      "data": {"url": "State-data.json"},
+      "transform": [
+        {
+          "lookup": "Source",
+          "from": {
+            "data": {
+              "url": "State-data.json"
+            },
+            "key": "Source",
+            "fields": [
+              "LATITUDE",
+              "LONGITUDE"
+            ]
+          },
+          "as": ["Latitude","Longitude"]
+        },
+        {
+          "lookup": "Target",
+          "from": {
+            "data": {
+              "url": "State-data.json"
+            },
+            "key": "Target",
+            "fields": [
+              "LATITUDE",
+              "LONGITUDE"
+            ]
+          },
+          "as": ["lat2","lon2"]
+        }
+      ],
+      "encoding": {
+        "latitude": {
+          "field": "Latitude"
+        },
+        "longitude": {
+          "field": "Longitude"
+        },
+        "latitude2": {
+          "field": "lat2"
+        },
+        "longitude2": {
+          "field": "lon2"
+        }
+      }
+    },
+
+
+    {
+      "data": {
+        "url": "VISTA-data.json"
+      },
+      "mark": {
+        "type": "circle"
+      },
+      "encoding": {
+        "size": {
+          "value": 25
+        },
+        "color": {
+          "field": "Service Type",
+          "type": "nominal",
+          "legend": {
+            "orient": "bottom-left",
+            "labelFontSize": 12,
+            "titleFontSize": 14,
+            "symbolSize": 120,
+            "symbolStrokeWidth": 5,
+            "padding": 25,
+            "labelOffset": 0,
+            "offset": 10
+          },
+          "scale": {
+            "domain": [
+              "VISTA",
+              "State"
+            ],
+            "range": [
+              "#0f4c5c",
+              "#bb3e03"
+            ]
+          }
+        }
+      }
+
+    }
+
+  ],
+
+
+  "config": {
+    "background": "#f8f8f8"
+  }
+}

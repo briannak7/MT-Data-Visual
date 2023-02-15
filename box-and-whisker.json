@@ -1,0 +1,67 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "height": 150,
+  "width": 225,
+  "padding": 40,
+  "title":{
+    "text": "Impacted Organizations by Program Type",
+    "subtitle": "2021-2022 Service year",
+    "fontSize": 17,
+    "offset": 20
+  },
+
+  "data":
+  {
+    "url": "program-rates.json"
+  },
+
+  "mark": {
+    "type": "boxplot",
+    "extent": "min-max",
+    "size": 22
+  },
+  "encoding": {
+    "y": {
+      "field": "GROUP",
+      "type": "nominal",
+      "title": "Program",
+      "sort":["VISTA", "State"],
+      "axis": {
+        "titleFontWeight": 100,
+        "titleFontSize": 15,
+        "titlePadding": 15,
+        "labelFontSize": 11
+      }
+    },
+    "color": {
+      "field": "GROUP",
+      "type": "nominal",
+      "legend": null,
+      "scale":{
+        "range":[
+          "#0f4c5c",
+          "#bb3e03"
+        ]
+      }
+    },
+    "x": {
+      "field": "TOTAL ORG IMPACTED",
+      "title": "Rate",
+      "type": "quantitative",
+      "scale": {"zero": false},
+      "axis": {
+        "titleFontWeight": 100,
+        "titleFontSize": 15,
+        "titlePadding": 15,
+        "labelFontSize": 11,
+        "tickCount": 5
+      }
+    }
+  },
+  "config": {
+    "background": "#f8f8f8",
+    "view": {
+      "stroke": "transparent"
+    }
+  }
+}

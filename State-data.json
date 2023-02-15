@@ -1,0 +1,2094 @@
+[
+  {
+    "ID": 0,
+    "LABEL": "Art Missoula- Global and Cultural Affairs",
+    "LATITUDE": 46.9335464,
+    "LONGITUDE": -114.0350784,
+    "GROUP": "Service Site",
+    "TOTAL ORGS IMPACTED": 5,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 1,
+    "LABEL": "Blackfeet Community College",
+    "LATITUDE": 48.55195069,
+    "LONGITUDE": -113.0093085,
+    "GROUP": "Service Site",
+    "TOTAL ORGS IMPACTED": 2,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 2,
+    "LABEL": "Butte High School (MT Tech)",
+    "LATITUDE": 46.00865483,
+    "LONGITUDE": -112.5334549,
+    "GROUP": "Service Site",
+    "TOTAL ORGS IMPACTED": 2,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 3,
+    "LABEL": "Capital High School (MT Tech)",
+    "LATITUDE": 46.61436335,
+    "LONGITUDE": -112.0484467,
+    "GROUP": "Service Site",
+    "TOTAL ORGS IMPACTED": 26,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 4,
+    "LABEL": "Cultivating Connections Montana",
+    "LATITUDE": 46.20292596,
+    "LONGITUDE": -114.156604,
+    "GROUP": "Service Site",
+    "TOTAL ORGS IMPACTED": 7,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 5,
+    "LABEL": "Dawson Community College",
+    "LATITUDE": 47.0854599,
+    "LONGITUDE": -104.7250156,
+    "GROUP": "Service Site",
+    "TOTAL ORGS IMPACTED": 5,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 6,
+    "LABEL": "EmPower Place (Missoula Food Bank & Community Center)",
+    "LATITUDE": 46.87213334,
+    "LONGITUDE": -114.0228862,
+    "GROUP": "Service Site",
+    "TOTAL ORGS IMPACTED": 3,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 7,
+    "LABEL": "Fort Peck Tribal Museum & Archives",
+    "LATITUDE": 48.12400764,
+    "LONGITUDE": -105.1844756,
+    "GROUP": "Service Site",
+    "TOTAL ORGS IMPACTED": 2,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 8,
+    "LABEL": "Frenchtown High School",
+    "LATITUDE": 47.02192179,
+    "LONGITUDE": -114.2421868,
+    "GROUP": "Service Site",
+    "TOTAL ORGS IMPACTED": 0,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 9,
+    "LABEL": "Garden City Harvest",
+    "LATITUDE": 46.87528482,
+    "LONGITUDE": -114.0224281,
+    "GROUP": "Service Site",
+    "TOTAL ORGS IMPACTED": 1,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 10,
+    "LABEL": "Girl Scouts of Billings",
+    "LATITUDE": 45.78448786,
+    "LONGITUDE": -108.574041,
+    "GROUP": "Service Site",
+    "TOTAL ORGS IMPACTED": 6,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 11,
+    "LABEL": "Great Falls College MSU",
+    "LATITUDE": 47.48604853,
+    "LONGITUDE": -111.2698073,
+    "GROUP": "Service Site",
+    "TOTAL ORGS IMPACTED": 10,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 12,
+    "LABEL": "Heartism",
+    "LATITUDE": 46.31565885,
+    "LONGITUDE": -114.1152115,
+    "GROUP": "Service Site",
+    "TOTAL ORGS IMPACTED": 3,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 13,
+    "LABEL": "Historical Museum at Fort Missoula",
+    "LATITUDE": 46.84369232,
+    "LONGITUDE": -114.0629096,
+    "GROUP": "Service Site",
+    "TOTAL ORGS IMPACTED": 12,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 14,
+    "LABEL": "International Rescue Committee",
+    "LATITUDE": 46.84116721,
+    "LONGITUDE": -114.0184922,
+    "GROUP": "Service Site",
+    "TOTAL ORGS IMPACTED": 25,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 15,
+    "LABEL": "MAPS",
+    "LATITUDE": 46.24453945,
+    "LONGITUDE": -114.1620171,
+    "GROUP": "Service Site",
+    "TOTAL ORGS IMPACTED": 22,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 16,
+    "LABEL": "Missoula Art Museum",
+    "LATITUDE": 46.87247687,
+    "LONGITUDE": -113.992366,
+    "GROUP": "Service Site",
+    "TOTAL ORGS IMPACTED": 0,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 17,
+    "LABEL": "Montana State University Billings Upward Bound",
+    "LATITUDE": 45.79657582,
+    "LONGITUDE": -108.5201921,
+    "GROUP": "Service Site",
+    "TOTAL ORGS IMPACTED": 13,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 18,
+    "LABEL": "Poplar High School",
+    "LATITUDE": 48.11133934,
+    "LONGITUDE": -105.2038853,
+    "GROUP": "Service Site",
+    "TOTAL ORGS IMPACTED": 7,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 19,
+    "LABEL": "Salish Kootenai College Upward Bound",
+    "LATITUDE": 47.59752839,
+    "LONGITUDE": -114.1117745,
+    "GROUP": "Service Site",
+    "TOTAL ORGS IMPACTED": 10,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 20,
+    "LABEL": "Soft Landing Missoula",
+    "LATITUDE": 46.85768751,
+    "LONGITUDE": -114.0118457,
+    "GROUP": "Service Site",
+    "TOTAL ORGS IMPACTED": 1,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 21,
+    "LABEL": "SpectrUM Discovery Area",
+    "LATITUDE": 46.86996974,
+    "LONGITUDE": -113.9898082,
+    "GROUP": "Service Site",
+    "TOTAL ORGS IMPACTED": 26,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 22,
+    "LABEL": "University of Montana Upward Bound",
+    "LATITUDE": 46.86545093,
+    "LONGITUDE": -113.9757535,
+    "GROUP": "Service Site",
+    "TOTAL ORGS IMPACTED": 0,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 23,
+    "LABEL": "YWCA Missoula",
+    "LATITUDE": 46.8674307,
+    "LONGITUDE": -114.0240605,
+    "GROUP": "Service Site",
+    "TOTAL ORGS IMPACTED": 2,
+    "Source": "",
+    "Target": ""
+  },
+  {
+    "ID": 24,
+    "LABEL": "Target Range Middle School",
+    "LATITUDE": 46.8485325,
+    "LONGITUDE": -114.0803441,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 0,
+    "Target": 24
+  },
+  {
+    "ID": 25,
+    "LABEL": "Lowell Elementary",
+    "LATITUDE": 46.88094965,
+    "LONGITUDE": -114.008521,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 0,
+    "Target": 25
+  },
+  {
+    "ID": 26,
+    "LABEL": "Rattle Snake Elementary",
+    "LATITUDE": 46.89165347,
+    "LONGITUDE": -113.9667435,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 0,
+    "Target": 26
+  },
+  {
+    "ID": 27,
+    "LABEL": "Jeanette Rankin Elementary",
+    "LATITUDE": 46.81680354,
+    "LONGITUDE": -114.0704116,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 0,
+    "Target": 27
+  },
+  {
+    "ID": 28,
+    "LABEL": "Arts Missoula",
+    "LATITUDE": 46.87343413,
+    "LONGITUDE": -114.0433656,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 0,
+    "Target": 28
+  },
+  {
+    "ID": 29,
+    "LABEL": "FAST Blackfeet Food Pantry",
+    "LATITUDE": 48.55676139,
+    "LONGITUDE": -113.0180143,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 1,
+    "Target": 29
+  },
+  {
+    "ID": 30,
+    "LABEL": "Blackfeet Community College",
+    "LATITUDE": 48.55195069,
+    "LONGITUDE": -113.0093085,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 1,
+    "Target": 30
+  },
+  {
+    "ID": 31,
+    "LABEL": "University of Montana",
+    "LATITUDE": 46.86201891,
+    "LONGITUDE": -113.9846291,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 2,
+    "Target": 31
+  },
+  {
+    "ID": 32,
+    "LABEL": "Butte Food Bank (Thompson Bank Food Drive)",
+    "LATITUDE": 46.00566109,
+    "LONGITUDE": -112.5248619,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 2,
+    "Target": 32
+  },
+  {
+    "ID": 33,
+    "LABEL": "Montana Tech University",
+    "LATITUDE": 46.01175841,
+    "LONGITUDE": -112.5574969,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 3,
+    "Target": 33
+  },
+  {
+    "ID": 34,
+    "LABEL": "Helena High School",
+    "LATITUDE": 46.59529391,
+    "LONGITUDE": -112.0186936,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 3,
+    "Target": 34
+  },
+  {
+    "ID": 35,
+    "LABEL": "Capital High School",
+    "LATITUDE": 46.61436335,
+    "LONGITUDE": -112.0484467,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 3,
+    "Target": 35
+  },
+  {
+    "ID": 36,
+    "LABEL": "Butte High School",
+    "LATITUDE": 46.00865483,
+    "LONGITUDE": -112.5334549,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 3,
+    "Target": 36
+  },
+  {
+    "ID": 37,
+    "LABEL": "Montana State University",
+    "LATITUDE": 45.66747234,
+    "LONGITUDE": -111.0545782,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 3,
+    "Target": 37
+  },
+  {
+    "ID": 38,
+    "LABEL": "Missoula College",
+    "LATITUDE": 46.86487911,
+    "LONGITUDE": -113.9758648,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 3,
+    "Target": 38
+  },
+  {
+    "ID": 39,
+    "LABEL": "C.R. Anderson Middle School",
+    "LATITUDE": 46.59953674,
+    "LONGITUDE": -112.0540079,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 3,
+    "Target": 39
+  },
+  {
+    "ID": 40,
+    "LABEL": "Helena Middle School",
+    "LATITUDE": 46.59568343,
+    "LONGITUDE": -112.025838,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 3,
+    "Target": 40
+  },
+  {
+    "ID": 41,
+    "LABEL": "East Helena High School",
+    "LATITUDE": 46.60364559,
+    "LONGITUDE": -111.9151143,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 3,
+    "Target": 41
+  },
+  {
+    "ID": 42,
+    "LABEL": "East Valley Middle School",
+    "LATITUDE": 46.59356254,
+    "LONGITUDE": -111.9069583,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 3,
+    "Target": 42
+  },
+  {
+    "ID": 43,
+    "LABEL": "Anaconda Junior/Senior High School",
+    "LATITUDE": 46.12549805,
+    "LONGITUDE": -112.9539491,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 3,
+    "Target": 43
+  },
+  {
+    "ID": 46,
+    "LABEL": "University of Montana",
+    "LATITUDE": 46.86201891,
+    "LONGITUDE": -113.9846291,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 3,
+    "Target": 46
+  },
+  {
+    "ID": 47,
+    "LABEL": "E. F. Duvall Middle School",
+    "LATITUDE": 46.39460678,
+    "LONGITUDE": -112.7294658,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 3,
+    "Target": 47
+  },
+  {
+    "ID": 48,
+    "LABEL": "Helena College",
+    "LATITUDE": 46.59586503,
+    "LONGITUDE": -112.0163301,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 3,
+    "Target": 48
+  },
+  {
+    "ID": 49,
+    "LABEL": "Emerson Elementary",
+    "LATITUDE": 45.99457938,
+    "LONGITUDE": -112.5158111,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 3,
+    "Target": 49
+  },
+  {
+    "ID": 50,
+    "LABEL": "Whittier Elementary",
+    "LATITUDE": 45.98882468,
+    "LONGITUDE": -112.4957668,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 3,
+    "Target": 50
+  },
+  {
+    "ID": 51,
+    "LABEL": "West Elementary",
+    "LATITUDE": 46.02281228,
+    "LONGITUDE": -112.548089,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 3,
+    "Target": 51
+  },
+  {
+    "ID": 52,
+    "LABEL": "Margaret Leary Elementary",
+    "LATITUDE": 45.96106318,
+    "LONGITUDE": -112.5214347,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 3,
+    "Target": 52
+  },
+  {
+    "ID": 53,
+    "LABEL": "Kennedy Elementary",
+    "LATITUDE": 46.02068753,
+    "LONGITUDE": -112.5531711,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 3,
+    "Target": 53
+  },
+  {
+    "ID": 54,
+    "LABEL": "Lincoln Elementary",
+    "LATITUDE": "null",
+    "LONGITUDE": null,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 3,
+    "Target": 54
+  },
+  {
+    "ID": 55,
+    "LABEL": "Highlands College",
+    "LATITUDE": 45.9465431,
+    "LONGITUDE": -112.5083223,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 3,
+    "Target": 55
+  },
+  {
+    "ID": 56,
+    "LABEL": "East Middle School",
+    "LATITUDE": 46.00000156,
+    "LONGITUDE": -112.4962797,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 3,
+    "Target": 56
+  },
+  {
+    "ID": 57,
+    "LABEL": "Beaverhead County Animal Shelter",
+    "LATITUDE": 45.23331129,
+    "LONGITUDE": -112.6193603,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 3,
+    "Target": 57
+  },
+  {
+    "ID": 58,
+    "LABEL": "Dillon Public Library",
+    "LATITUDE": 45.21633936,
+    "LONGITUDE": -112.6375645,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 3,
+    "Target": 58
+  },
+  {
+    "ID": 59,
+    "LABEL": "Hamilton Elementary",
+    "LATITUDE": 46.24714447,
+    "LONGITUDE": -114.167206,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 4,
+    "Target": 59
+  },
+  {
+    "ID": 60,
+    "LABEL": "Heartism",
+    "LATITUDE": 46.31565885,
+    "LONGITUDE": -114.1152115,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 4,
+    "Target": 60
+  },
+  {
+    "ID": 61,
+    "LABEL": "Darby Public Library",
+    "LATITUDE": 46.02060153,
+    "LONGITUDE": -114.1769983,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 4,
+    "Target": 61
+  },
+  {
+    "ID": 62,
+    "LABEL": "BEAR",
+    "LATITUDE": 46.24956583,
+    "LONGITUDE": -114.1712396,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 4,
+    "Target": 62
+  },
+  {
+    "ID": 63,
+    "LABEL": "MAPS",
+    "LATITUDE": 46.24453945,
+    "LONGITUDE": -114.1620171,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 4,
+    "Target": 63
+  },
+  {
+    "ID": 64,
+    "LABEL": "Bitterroot Land Trust",
+    "LATITUDE": 46.24641878,
+    "LONGITUDE": -114.1569289,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 4,
+    "Target": 64
+  },
+  {
+    "ID": 65,
+    "LABEL": "The Farm School Preschool",
+    "LATITUDE": 46.20297004,
+    "LONGITUDE": -114.156639,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 4,
+    "Target": 65
+  },
+  {
+    "ID": 66,
+    "LABEL": "Dawson County High School",
+    "LATITUDE": 47.12000984,
+    "LONGITUDE": -104.7046355,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 5,
+    "Target": 66
+  },
+  {
+    "ID": 67,
+    "LABEL": "Job Service Division",
+    "LATITUDE": 47.11062408,
+    "LONGITUDE": -104.7162995,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 5,
+    "Target": 67
+  },
+  {
+    "ID": 68,
+    "LABEL": "Jefferson Elementary School",
+    "LATITUDE": 47.12190882,
+    "LONGITUDE": -104.7526236,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 5,
+    "Target": 68
+  },
+  {
+    "ID": 69,
+    "LABEL": "Lincoln Middle School",
+    "LATITUDE": null,
+    "LONGITUDE": null,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 5,
+    "Target": 69
+  },
+  {
+    "ID": 70,
+    "LABEL": "Glendive Public Library",
+    "LATITUDE": 47.10410551,
+    "LONGITUDE": -104.7158888,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 5,
+    "Target": 70
+  },
+  {
+    "ID": 71,
+    "LABEL": "Garden City Harvest",
+    "LATITUDE": 46.87528482,
+    "LONGITUDE": -114.0224281,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 6,
+    "Target": 71
+  },
+  {
+    "ID": 72,
+    "LABEL": "Missoula Public Library",
+    "LATITUDE": 46.86988172,
+    "LONGITUDE": -113.9898297,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 6,
+    "Target": 72
+  },
+  {
+    "ID": 73,
+    "LABEL": "Missoula Natural History Museum",
+    "LATITUDE": 46.87069208,
+    "LONGITUDE": -114.0063526,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 6,
+    "Target": 73
+  },
+  {
+    "ID": 74,
+    "LABEL": "Cultural Resource Department",
+    "LATITUDE": null,
+    "LONGITUDE": null,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 7,
+    "Target": 74
+  },
+  {
+    "ID": 75,
+    "LABEL": "University of Montana",
+    "LATITUDE": 46.86201891,
+    "LONGITUDE": -113.9846291,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 7,
+    "Target": 75
+  },
+  {
+    "ID": 76,
+    "LABEL": "University of Montana",
+    "LATITUDE": 46.86201891,
+    "LONGITUDE": -113.9846291,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 9,
+    "Target": 76
+  },
+  {
+    "ID": 77,
+    "LABEL": "Parks and Recreation",
+    "LATITUDE": 45.78887795,
+    "LONGITUDE": -108.5012129,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 10,
+    "Target": 77
+  },
+  {
+    "ID": 78,
+    "LABEL": "CARE Academy",
+    "LATITUDE": 45.75139256,
+    "LONGITUDE": -108.5703416,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 10,
+    "Target": 78
+  },
+  {
+    "ID": 79,
+    "LABEL": "Montana Audubon Center",
+    "LATITUDE": 45.7431251,
+    "LONGITUDE": -108.5391488,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 10,
+    "Target": 79
+  },
+  {
+    "ID": 80,
+    "LABEL": "YMCA",
+    "LATITUDE": 45.78300718,
+    "LONGITUDE": -108.5143622,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 10,
+    "Target": 80
+  },
+  {
+    "ID": 81,
+    "LABEL": "Bitterroot Sip and Paint",
+    "LATITUDE": 45.76966056,
+    "LONGITUDE": -108.548239,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 10,
+    "Target": 81
+  },
+  {
+    "ID": 82,
+    "LABEL": "Billings Parks and Recreation",
+    "LATITUDE": 45.78714585,
+    "LONGITUDE": -108.501479,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 10,
+    "Target": 82
+  },
+  {
+    "ID": 83,
+    "LABEL": "Great Falls Community Food Bank",
+    "LATITUDE": 47.5178097,
+    "LONGITUDE": -111.2791098,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 11,
+    "Target": 83
+  },
+  {
+    "ID": 84,
+    "LABEL": "Great Falls LGBTQ+ Center",
+    "LATITUDE": 47.50599161,
+    "LONGITUDE": -111.2825759,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 11,
+    "Target": 84
+  },
+  {
+    "ID": 85,
+    "LABEL": "NASPA Center for First-Generation Student Success",
+    "LATITUDE": null,
+    "LONGITUDE": null,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 11,
+    "Target": 85
+  },
+  {
+    "ID": 86,
+    "LABEL": "Mountain View Elementary",
+    "LATITUDE": 47.48825829,
+    "LONGITUDE": -111.2446251,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 11,
+    "Target": 86
+  },
+  {
+    "ID": 87,
+    "LABEL": "Lewis & Clark Elementary",
+    "LATITUDE": 47.50671154,
+    "LONGITUDE": -111.2412295,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 11,
+    "Target": 87
+  },
+  {
+    "ID": 88,
+    "LABEL": "Alliance for Youth",
+    "LATITUDE": 47.50844302,
+    "LONGITUDE": -111.2503182,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 11,
+    "Target": 88
+  },
+  {
+    "ID": 89,
+    "LABEL": "YWCA",
+    "LATITUDE": 46.8674307,
+    "LONGITUDE": -114.0240605,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 11,
+    "Target": 89
+  },
+  {
+    "ID": 90,
+    "LABEL": "L.O.V.E.",
+    "LATITUDE": null,
+    "LONGITUDE": null,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 11,
+    "Target": 90
+  },
+  {
+    "ID": 91,
+    "LABEL": "Toby's House",
+    "LATITUDE": 47.51070803,
+    "LONGITUDE": -111.2986998,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 11,
+    "Target": 91
+  },
+  {
+    "ID": 92,
+    "LABEL": "Cascade County United Way",
+    "LATITUDE": 47.5328324,
+    "LONGITUDE": -111.2750033,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 11,
+    "Target": 92
+  },
+  {
+    "ID": 93,
+    "LABEL": "Teller Wildlife",
+    "LATITUDE": 46.32762455,
+    "LONGITUDE": -114.113175,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 12,
+    "Target": 93
+  },
+  {
+    "ID": 94,
+    "LABEL": "BEAR",
+    "LATITUDE": 46.24956583,
+    "LONGITUDE": -114.1712396,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 12,
+    "Target": 94
+  },
+  {
+    "ID": 95,
+    "LABEL": "Cultivating Connections",
+    "LATITUDE": 46.20292596,
+    "LONGITUDE": -114.156604,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 12,
+    "Target": 95
+  },
+  {
+    "ID": 96,
+    "LABEL": "Chief Charlo Elementary School",
+    "LATITUDE": 46.81895575,
+    "LONGITUDE": -114.0314683,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 13,
+    "Target": 96
+  },
+  {
+    "ID": 97,
+    "LABEL": "Montana Missoula Food Bank",
+    "LATITUDE": 46.87213334,
+    "LONGITUDE": -114.0228862,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 13,
+    "Target": 97
+  },
+  {
+    "ID": 98,
+    "LABEL": "Yellowstone Boys and Girls Club",
+    "LATITUDE": 45.76031055,
+    "LONGITUDE": -108.5247865,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 13,
+    "Target": 98
+  },
+  {
+    "ID": 99,
+    "LABEL": "Big Sky High School",
+    "LATITUDE": 46.8506012,
+    "LONGITUDE": -114.0576751,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 13,
+    "Target": 99
+  },
+  {
+    "ID": 100,
+    "LABEL": "Sentinel High School",
+    "LATITUDE": 46.84819293,
+    "LONGITUDE": -114.0094876,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 13,
+    "Target": 100
+  },
+  {
+    "ID": 101,
+    "LABEL": "Empower Place (Missoula Food Bank & Community Center)",
+    "LATITUDE": 46.87213334,
+    "LONGITUDE": -114.0228862,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 13,
+    "Target": 101
+  },
+  {
+    "ID": 102,
+    "LABEL": "Boys and Girls Club",
+    "LATITUDE": 46.84577328,
+    "LONGITUDE": -114.0198076,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 13,
+    "Target": 102
+  },
+  {
+    "ID": 103,
+    "LABEL": "SpectrUM at the Missoula Food Bank",
+    "LATITUDE": 46.87213334,
+    "LONGITUDE": -114.0228862,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 13,
+    "Target": 103
+  },
+  {
+    "ID": 104,
+    "LABEL": "Missoula Youth Soccer Alliance",
+    "LATITUDE": 46.87343413,
+    "LONGITUDE": -114.0433656,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 13,
+    "Target": 104
+  },
+  {
+    "ID": 105,
+    "LABEL": "River City Roots Festival",
+    "LATITUDE": 46.87066667,
+    "LONGITUDE": -113.9921293,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 13,
+    "Target": 105
+  },
+  {
+    "ID": 106,
+    "LABEL": "Missoula Soccer Alliance",
+    "LATITUDE": 46.87343413,
+    "LONGITUDE": -114.0433656,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 13,
+    "Target": 106
+  },
+  {
+    "ID": 107,
+    "LABEL": "Missoula Downtown Association",
+    "LATITUDE": 46.87066667,
+    "LONGITUDE": -113.9921293,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 13,
+    "Target": 107
+  },
+  {
+    "ID": 108,
+    "LABEL": "Missoula County Public School System",
+    "LATITUDE": 46.8477699,
+    "LONGITUDE": -114.0123914,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 14,
+    "Target": 108
+  },
+  {
+    "ID": 109,
+    "LABEL": "Soft Landing Missoula",
+    "LATITUDE": 46.85768751,
+    "LONGITUDE": -114.0118457,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 14,
+    "Target": 109
+  },
+  {
+    "ID": 110,
+    "LABEL": "American Foundation for Suicide Prevention",
+    "LATITUDE": null,
+    "LONGITUDE": null,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 14,
+    "Target": 110
+  },
+  {
+    "ID": 111,
+    "LABEL": "Department of Health and Human Services",
+    "LATITUDE": 46.88580147,
+    "LONGITUDE": -114.0294311,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 14,
+    "Target": 111
+  },
+  {
+    "ID": 112,
+    "LABEL": "University of Montana",
+    "LATITUDE": 46.86201891,
+    "LONGITUDE": -113.9846291,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 14,
+    "Target": 112
+  },
+  {
+    "ID": 113,
+    "LABEL": "Missoula College",
+    "LATITUDE": 46.86487911,
+    "LONGITUDE": -113.9758648,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 14,
+    "Target": 113
+  },
+  {
+    "ID": 114,
+    "LABEL": "Lowell Elementary",
+    "LATITUDE": 46.88094965,
+    "LONGITUDE": -114.008521,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 14,
+    "Target": 114
+  },
+  {
+    "ID": 115,
+    "LABEL": "Hawthorne Elementary",
+    "LATITUDE": 46.8667368,
+    "LONGITUDE": -114.0522382,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 14,
+    "Target": 115
+  },
+  {
+    "ID": 116,
+    "LABEL": "C.S. Porter Middle School",
+    "LATITUDE": 46.85128063,
+    "LONGITUDE": -114.0416599,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 14,
+    "Target": 116
+  },
+  {
+    "ID": 117,
+    "LABEL": "Hellgate High School",
+    "LATITUDE": 46.86291451,
+    "LONGITUDE": -113.9971833,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 14,
+    "Target": 117
+  },
+  {
+    "ID": 118,
+    "LABEL": "Montana DPHHS",
+    "LATITUDE": 46.88580147,
+    "LONGITUDE": -114.0294311,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 14,
+    "Target": 118
+  },
+  {
+    "ID": 119,
+    "LABEL": "Little Twigs Daycare",
+    "LATITUDE": 46.84911039,
+    "LONGITUDE": -114.0246622,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 14,
+    "Target": 119
+  },
+  {
+    "ID": 120,
+    "LABEL": "Busy Bee Daycare",
+    "LATITUDE": 46.85987999,
+    "LONGITUDE": -114.038336,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 14,
+    "Target": 120
+  },
+  {
+    "ID": 121,
+    "LABEL": "Partnership Health Center",
+    "LATITUDE": 46.87709065,
+    "LONGITUDE": -113.996437,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 14,
+    "Target": 121
+  },
+  {
+    "ID": 122,
+    "LABEL": "Origins Daycare",
+    "LATITUDE": 46.85995543,
+    "LONGITUDE": -114.0318542,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 14,
+    "Target": 122
+  },
+  {
+    "ID": 123,
+    "LABEL": "The Growing Tree Daycare",
+    "LATITUDE": 46.86685679,
+    "LONGITUDE": -114.0220239,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 14,
+    "Target": 123
+  },
+  {
+    "ID": 124,
+    "LABEL": "Hellgate Elementary",
+    "LATITUDE": 46.89316712,
+    "LONGITUDE": -114.0569529,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 14,
+    "Target": 124
+  },
+  {
+    "ID": 125,
+    "LABEL": "Raise Montana",
+    "LATITUDE": 46.75818976,
+    "LONGITUDE": -114.0803111,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 14,
+    "Target": 125
+  },
+  {
+    "ID": 126,
+    "LABEL": "YMCA",
+    "LATITUDE": 46.84315086,
+    "LONGITUDE": -114.0169497,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 14,
+    "Target": 126
+  },
+  {
+    "ID": 127,
+    "LABEL": "Meadowlarks Daycare",
+    "LATITUDE": 46.87040256,
+    "LONGITUDE": -114.0320761,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 14,
+    "Target": 127
+  },
+  {
+    "ID": 128,
+    "LABEL": "Missoula Public Library",
+    "LATITUDE": 46.86988172,
+    "LONGITUDE": -113.9898297,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 14,
+    "Target": 128
+  },
+  {
+    "ID": 129,
+    "LABEL": "Clay Studio",
+    "LATITUDE": 46.88294221,
+    "LONGITUDE": -114.006842,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 14,
+    "Target": 129
+  },
+  {
+    "ID": 130,
+    "LABEL": "Freestone Climbing",
+    "LATITUDE": 46.88335347,
+    "LONGITUDE": -114.009055,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 14,
+    "Target": 130
+  },
+  {
+    "ID": 130,
+    "LABEL": "Child Care Resources",
+    "LATITUDE": 46.87414878,
+    "LONGITUDE": -113.9922851,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 14,
+    "Target": 130
+  },
+  {
+    "ID": 131,
+    "LABEL": "Amber's Angels",
+    "LATITUDE": 46.86082632,
+    "LONGITUDE": -114.0279269,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 14,
+    "Target": 131
+  },
+  {
+    "ID": 132,
+    "LABEL": "Fort Belknap Tribal Historic Preservation Office",
+    "LATITUDE": 48.48364723,
+    "LONGITUDE": -108.7655021,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 15,
+    "Target": 132
+  },
+  {
+    "ID": 133,
+    "LABEL": "Blackfeet Tribal Historic Preservation Office",
+    "LATITUDE": 48.66240891,
+    "LONGITUDE": -113.0144281,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 15,
+    "Target": 133
+  },
+  {
+    "ID": 134,
+    "LABEL": "Aaniiih Nakoda College",
+    "LATITUDE": 48.48422448,
+    "LONGITUDE": -108.7591764,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 15,
+    "Target": 134
+  },
+  {
+    "ID": 135,
+    "LABEL": "Bitterroot Community College",
+    "LATITUDE": 46.24620604,
+    "LONGITUDE": -114.1681224,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 15,
+    "Target": 135
+  },
+  {
+    "ID": 136,
+    "LABEL": "Blackfeet Community College",
+    "LATITUDE": 48.55195069,
+    "LONGITUDE": -113.0093085,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 15,
+    "Target": 136
+  },
+  {
+    "ID": 137,
+    "LABEL": "Montana State University",
+    "LATITUDE": 45.66747234,
+    "LONGITUDE": -111.0545782,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 15,
+    "Target": 137
+  },
+  {
+    "ID": 138,
+    "LABEL": "University of Montana",
+    "LATITUDE": 46.86201891,
+    "LONGITUDE": -113.9846291,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 15,
+    "Target": 138
+  },
+  {
+    "ID": 139,
+    "LABEL": "Corvallis Middle School",
+    "LATITUDE": 46.31781791,
+    "LONGITUDE": -114.1153792,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 15,
+    "Target": 139
+  },
+  {
+    "ID": 140,
+    "LABEL": "Corvallis High School",
+    "LATITUDE": 46.31635499,
+    "LONGITUDE": -114.1153208,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 15,
+    "Target": 140
+  },
+  {
+    "ID": 141,
+    "LABEL": "Hamilton Middle School",
+    "LATITUDE": 46.24517956,
+    "LONGITUDE": -114.1617706,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 15,
+    "Target": 141
+  },
+  {
+    "ID": 142,
+    "LABEL": "Hamilton High School",
+    "LATITUDE": 46.25440863,
+    "LONGITUDE": -114.1416111,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 15,
+    "Target": 142
+  },
+  {
+    "ID": 143,
+    "LABEL": "CR Anderson Middle School",
+    "LATITUDE": 46.59953674,
+    "LONGITUDE": -112.0540079,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 15,
+    "Target": 143
+  },
+  {
+    "ID": 144,
+    "LABEL": "Helena Middle School",
+    "LATITUDE": 46.59568343,
+    "LONGITUDE": -112.025838,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 15,
+    "Target": 144
+  },
+  {
+    "ID": 145,
+    "LABEL": "Capital High School",
+    "LATITUDE": 46.61436335,
+    "LONGITUDE": -112.0484467,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 15,
+    "Target": 145
+  },
+  {
+    "ID": 146,
+    "LABEL": "Helena High School",
+    "LATITUDE": 46.59529391,
+    "LONGITUDE": -112.0186936,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 15,
+    "Target": 146
+  },
+  {
+    "ID": 147,
+    "LABEL": "Bitterroot Public Library",
+    "LATITUDE": 46.24620171,
+    "LONGITUDE": -114.1594948,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 15,
+    "Target": 147
+  },
+  {
+    "ID": 148,
+    "LABEL": "Hamilton Farmers Market",
+    "LATITUDE": 46.24445108,
+    "LONGITUDE": -114.1575734,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 15,
+    "Target": 148
+  },
+  {
+    "ID": 149,
+    "LABEL": "Helena Farmers Market",
+    "LATITUDE": 46.59232674,
+    "LONGITUDE": -112.0385786,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 15,
+    "Target": 149
+  },
+  {
+    "ID": 150,
+    "LABEL": "Helena Public Library (Lewis & Clark Library)",
+    "LATITUDE": 46.58542236,
+    "LONGITUDE": -112.0417998,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 15,
+    "Target": 150
+  },
+  {
+    "ID": 151,
+    "LABEL": "Holter Museum of Art",
+    "LATITUDE": 46.5905951,
+    "LONGITUDE": -112.0367827,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 15,
+    "Target": 151
+  },
+  {
+    "ID": 152,
+    "LABEL": "Myrna Loy",
+    "LATITUDE": 46.58583515,
+    "LONGITUDE": -112.0357227,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 15,
+    "Target": 152
+  },
+  {
+    "ID": 153,
+    "LABEL": "Montana Business Assistance Connection",
+    "LATITUDE": 46.58825813,
+    "LONGITUDE": -112.0369084,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 15,
+    "Target": 153
+  },
+  {
+    "ID": 154,
+    "LABEL": "Montana State University Billings",
+    "LATITUDE": 45.7974977,
+    "LONGITUDE": -108.5217462,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 17,
+    "Target": 154
+  },
+  {
+    "ID": 155,
+    "LABEL": "Rocky Mountain College",
+    "LATITUDE": 45.79662785,
+    "LONGITUDE": -108.558154,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 17,
+    "Target": 155
+  },
+  {
+    "ID": 156,
+    "LABEL": "Montana Zoo",
+    "LATITUDE": 45.73236293,
+    "LONGITUDE": -108.6206245,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 17,
+    "Target": 156
+  },
+  {
+    "ID": 157,
+    "LABEL": "Peter Yegen Jr. Yellowstone County Museum",
+    "LATITUDE": 45.80249861,
+    "LONGITUDE": -108.5376617,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 17,
+    "Target": 157
+  },
+  {
+    "ID": 158,
+    "LABEL": "Yelvington Studios",
+    "LATITUDE": 45.78471292,
+    "LONGITUDE": -108.5070516,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 17,
+    "Target": 158
+  },
+  {
+    "ID": 159,
+    "LABEL": "Billings Flying Service",
+    "LATITUDE": 45.80927579,
+    "LONGITUDE": -108.574619,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 17,
+    "Target": 159
+  },
+  {
+    "ID": 160,
+    "LABEL": "Butte Tech Upward Bound",
+    "LATITUDE": 46.01175841,
+    "LONGITUDE": -112.5574969,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 17,
+    "Target": 160
+  },
+  {
+    "ID": 161,
+    "LABEL": "Montana State University Bozeman",
+    "LATITUDE": 45.66747234,
+    "LONGITUDE": -111.0545782,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 17,
+    "Target": 161
+  },
+  {
+    "ID": 162,
+    "LABEL": "Skyview High School",
+    "LATITUDE": 45.83268278,
+    "LONGITUDE": -108.5152611,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 17,
+    "Target": 162
+  },
+  {
+    "ID": 163,
+    "LABEL": "West High School",
+    "LATITUDE": 45.77229248,
+    "LONGITUDE": -108.5719003,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 17,
+    "Target": 163
+  },
+  {
+    "ID": 164,
+    "LABEL": "Senior High School",
+    "LATITUDE": 45.78583227,
+    "LONGITUDE": -108.5256979,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 17,
+    "Target": 164
+  },
+  {
+    "ID": 165,
+    "LABEL": "Lockwood High School",
+    "LATITUDE": 45.79578357,
+    "LONGITUDE": -108.433398,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 17,
+    "Target": 165
+  },
+  {
+    "ID": 166,
+    "LABEL": "HRDC of Billings",
+    "LATITUDE": 45.77984912,
+    "LONGITUDE": -108.5084948,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 17,
+    "Target": 166
+  },
+  {
+    "ID": 167,
+    "LABEL": "FPCC Chante Project",
+    "LATITUDE": 48.11372581,
+    "LONGITUDE": -105.1930671,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 18,
+    "Target": 167
+  },
+  {
+    "ID": 168,
+    "LABEL": "The Assiniboine & Sioux Tribes Cultural Resource Department",
+    "LATITUDE": 48.1240721,
+    "LONGITUDE": -105.1844863,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 18,
+    "Target": 168
+  },
+  {
+    "ID": 169,
+    "LABEL": "Fort Peck Community College",
+    "LATITUDE": 48.11372581,
+    "LONGITUDE": -105.1930671,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 18,
+    "Target": 169
+  },
+  {
+    "ID": 170,
+    "LABEL": "Fort Peck Tribal Museum & Archives",
+    "LATITUDE": 48.12400764,
+    "LONGITUDE": -105.1844756,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 18,
+    "Target": 170
+  },
+  {
+    "ID": 171,
+    "LABEL": "Poplar Middle School",
+    "LATITUDE": 48.11131785,
+    "LONGITUDE": -105.2038423,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 18,
+    "Target": 171
+  },
+  {
+    "ID": 172,
+    "LABEL": "Cultural Resource Department",
+    "LATITUDE": 48.1240721,
+    "LONGITUDE": -105.1844863,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 18,
+    "Target": 172
+  },
+  {
+    "ID": 173,
+    "LABEL": "University of Montana",
+    "LATITUDE": 46.86201891,
+    "LONGITUDE": -113.9846291,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 18,
+    "Target": 173
+  },
+  {
+    "ID": 174,
+    "LABEL": "Boys and Girls Club of Polson",
+    "LATITUDE": 47.68050608,
+    "LONGITUDE": -114.1660795,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 19,
+    "Target": 174
+  },
+  {
+    "ID": 175,
+    "LABEL": "Big Sky Film Festival",
+    "LATITUDE": 46.87192553,
+    "LONGITUDE": -113.9964199,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 19,
+    "Target": 175
+  },
+  {
+    "ID": 176,
+    "LABEL": "Ronan Boys and Girls Club",
+    "LATITUDE": 47.5367228,
+    "LONGITUDE": -114.1016379,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 19,
+    "Target": 176
+  },
+  {
+    "ID": 177,
+    "LABEL": "Big Dipper",
+    "LATITUDE": 46.86565345,
+    "LONGITUDE": -113.9979642,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 19,
+    "Target": 177
+  },
+  {
+    "ID": 178,
+    "LABEL": "Montana Conservation Corps",
+    "LATITUDE": 46.87828648,
+    "LONGITUDE": -113.9984112,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 19,
+    "Target": 178
+  },
+  {
+    "ID": 179,
+    "LABEL": "Montana Wildlife Protection Agency",
+    "LATITUDE": null,
+    "LONGITUDE": null,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 19,
+    "Target": 179
+  },
+  {
+    "ID": 180,
+    "LABEL": "Hungry Horse Ranger Station",
+    "LATITUDE": 48.38418942,
+    "LONGITUDE": -114.054487,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 19,
+    "Target": 180
+  },
+  {
+    "ID": 181,
+    "LABEL": "Mission Mountain Youth Crew",
+    "LATITUDE": 46.84272371,
+    "LONGITUDE": -114.056648,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 19,
+    "Target": 181
+  },
+  {
+    "ID": 182,
+    "LABEL": "James Welch Native Lit Festival",
+    "LATITUDE": 46.88434076,
+    "LONGITUDE": -113.9977608,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 19,
+    "Target": 182
+  },
+  {
+    "ID": 183,
+    "LABEL": "Glacier Native Plant Restoration",
+    "LATITUDE": 48.37055862,
+    "LONGITUDE": -114.1870653,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 19,
+    "Target": 183
+  },
+  {
+    "ID": 184,
+    "LABEL": "International Rescue Committee",
+    "LATITUDE": 46.84116721,
+    "LONGITUDE": -114.0184922,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 20,
+    "Target": 184
+  },
+  {
+    "ID": 185,
+    "LABEL": "Hellgate High School",
+    "LATITUDE": 46.86291451,
+    "LONGITUDE": -113.9971833,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 21,
+    "Target": 185
+  },
+  {
+    "ID": 186,
+    "LABEL": "Willard Alternative High School",
+    "LATITUDE": 46.86393506,
+    "LONGITUDE": -114.0101681,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 21,
+    "Target": 186
+  },
+  {
+    "ID": 187,
+    "LABEL": "University of Montana",
+    "LATITUDE": 46.86201891,
+    "LONGITUDE": -113.9846291,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 21,
+    "Target": 187
+  },
+  {
+    "ID": 188,
+    "LABEL": "The Poverello Center",
+    "LATITUDE": 46.87692496,
+    "LONGITUDE": -114.0090868,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 21,
+    "Target": 188
+  },
+  {
+    "ID": 189,
+    "LABEL": "Arts Missoula",
+    "LATITUDE": 46.87343413,
+    "LONGITUDE": -114.0433656,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 21,
+    "Target": 189
+  },
+  {
+    "ID": 190,
+    "LABEL": "Barnes & Noble (Missoula)",
+    "LATITUDE": 46.89027191,
+    "LONGITUDE": -114.0369369,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 21,
+    "Target": 190
+  },
+  {
+    "ID": 191,
+    "LABEL": "Lowell Elementary",
+    "LATITUDE": 46.88094965,
+    "LONGITUDE": -114.008521,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 21,
+    "Target": 191
+  },
+  {
+    "ID": 192,
+    "LABEL": "Hellgate Elementary",
+    "LATITUDE": 46.89316712,
+    "LONGITUDE": -114.0569529,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 21,
+    "Target": 192
+  },
+  {
+    "ID": 193,
+    "LABEL": "International Wildlife Film Festival",
+    "LATITUDE": 46.86452711,
+    "LONGITUDE": -113.997237,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 21,
+    "Target": 193
+  },
+  {
+    "ID": 194,
+    "LABEL": "Big Sky Film Festival",
+    "LATITUDE": 46.87192553,
+    "LONGITUDE": -113.9964199,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 21,
+    "Target": 194
+  },
+  {
+    "ID": 195,
+    "LABEL": "UM Allies",
+    "LATITUDE": 46.86201891,
+    "LONGITUDE": -113.9846291,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 21,
+    "Target": 195
+  },
+  {
+    "ID": 196,
+    "LABEL": "Montana Science Fair (UM)",
+    "LATITUDE": 46.86201891,
+    "LONGITUDE": -113.9846291,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 21,
+    "Target": 196
+  },
+  {
+    "ID": 197,
+    "LABEL": "Girl Scouts of Montana and Wyoming",
+    "LATITUDE": 45.78448786,
+    "LONGITUDE": -108.574041,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 21,
+    "Target": 197
+  },
+  {
+    "ID": 200,
+    "LABEL": "UM Conference on Undergraduate Research",
+    "LATITUDE": 46.86201891,
+    "LONGITUDE": -113.9846291,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 21,
+    "Target": 200
+  },
+  {
+    "ID": 201,
+    "LABEL": "Ronan Middle School",
+    "LATITUDE": 47.52965153,
+    "LONGITUDE": -114.1009731,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 21,
+    "Target": 201
+  },
+  {
+    "ID": 202,
+    "LABEL": "The Missoula Butterfly House and Insectarium",
+    "LATITUDE": 46.87343413,
+    "LONGITUDE": -114.0433656,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 21,
+    "Target": 202
+  },
+  {
+    "ID": 203,
+    "LABEL": "Potomac School Public Library",
+    "LATITUDE": 46.88156894,
+    "LONGITUDE": -113.5795603,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 21,
+    "Target": 203
+  },
+  {
+    "ID": 204,
+    "LABEL": "GSK Science in the Summer",
+    "LATITUDE": 46.86201891,
+    "LONGITUDE": -113.9846291,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 21,
+    "Target": 204
+  },
+  {
+    "ID": 205,
+    "LABEL": "SciNation on the Flathead Reservation",
+    "LATITUDE": 46.86996974,
+    "LONGITUDE": -113.9898082,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 21,
+    "Target": 205
+  },
+  {
+    "ID": 206,
+    "LABEL": "Ronan Elementary",
+    "LATITUDE": 47.5605483,
+    "LONGITUDE": -114.0931496,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 21,
+    "Target": 206
+  },
+  {
+    "ID": 207,
+    "LABEL": "The Confederated Salish and Kootenai Wildlife Management Program",
+    "LATITUDE": 47.69333032,
+    "LONGITUDE": -114.1632759,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 21,
+    "Target": 207
+  },
+  {
+    "ID": 208,
+    "LABEL": "Tribal Education",
+    "LATITUDE": 47.60098954,
+    "LONGITUDE": -114.1170551,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 21,
+    "Target": 208
+  },
+  {
+    "ID": 209,
+    "LABEL": "Salish Kootenai College",
+    "LATITUDE": 47.59755009,
+    "LONGITUDE": -114.1118175,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 21,
+    "Target": 209
+  },
+  {
+    "ID": 211,
+    "LABEL": "Lewis & Clark Elementary",
+    "LATITUDE": 46.84560219,
+    "LONGITUDE": -114.0039704,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 23,
+    "Target": 211
+  },
+  {
+    "ID": 212,
+    "LABEL": "YWCA Missoula",
+    "LATITUDE": 46.8674307,
+    "LONGITUDE": -114.0240605,
+    "GROUP": "Impacted Organization",
+    "TOTAL ORGS IMPACTED": "",
+    "Source": 23,
+    "Target": 212
+  }
+]
+
+
