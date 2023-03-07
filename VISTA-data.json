@@ -6,8 +6,8 @@
     "LONGITUDE": -113.9770737,
     "GROUP": "Service Site",
     "TOTAL ORG IMPACTED": 3,
-    "Source": "",
-    "Target": ""
+    "Source": 0,
+    "Target": 0
   },
   {
     "ID": 1,
@@ -16,8 +16,8 @@
     "LONGITUDE": -114.0871546,
     "GROUP": "Service Site",
     "TOTAL ORG IMPACTED": 1,
-    "Source": "",
-    "Target": ""
+    "Source": 1,
+    "Target": 1
   },
   {
     "ID": 2,
@@ -26,8 +26,8 @@
     "LONGITUDE": -113.9948286,
     "GROUP": "Service Site",
     "TOTAL ORG IMPACTED": 8,
-    "Source": "",
-    "Target": ""
+    "Source": 2,
+    "Target": 2
   },
   {
     "ID": 3,
@@ -36,8 +36,8 @@
     "LONGITUDE": -111.2825116,
     "GROUP": "Service Site",
     "TOTAL ORG IMPACTED": 11,
-    "Source": "",
-    "Target": ""
+    "Source": 3,
+    "Target": 3
   },
   {
     "ID": 4,
@@ -46,8 +46,8 @@
     "LONGITUDE": -114.0195175,
     "GROUP": "Service Site",
     "TOTAL ORG IMPACTED": 2,
-    "Source": "",
-    "Target": ""
+    "Source": 4,
+    "Target": 4
   },
   {
     "ID": 5,
@@ -56,8 +56,8 @@
     "LONGITUDE": -114.3129627,
     "GROUP": "Service Site",
     "TOTAL ORG IMPACTED": 1,
-    "Source": "",
-    "Target": ""
+    "Source": 5,
+    "Target": 5
   },
   {
     "ID": 6,
@@ -66,8 +66,8 @@
     "LONGITUDE": -112.5592164,
     "GROUP": "Service Site",
     "TOTAL ORG IMPACTED": 1,
-    "Source": "",
-    "Target": ""
+    "Source": 6,
+    "Target": 6
   },
   {
     "ID": 7,
@@ -76,8 +76,8 @@
     "LONGITUDE": -114.0187198,
     "GROUP": "Service Site",
     "TOTAL ORG IMPACTED": 6,
-    "Source": "",
-    "Target": ""
+    "Source": 7,
+    "Target": 7
   },
   {
     "ID": 8,
@@ -86,8 +86,8 @@
     "LONGITUDE": -108.5255978,
     "GROUP": "Service Site",
     "TOTAL ORG IMPACTED": 40,
-    "Source": "",
-    "Target": ""
+    "Source": 8,
+    "Target": 8
   },
   {
     "ID": 9,
@@ -96,8 +96,8 @@
     "LONGITUDE": -112.4865327,
     "GROUP": "Service Site",
     "TOTAL ORG IMPACTED": 27,
-    "Source": "",
-    "Target": ""
+    "Source": 9,
+    "Target": 9
   },
   {
     "ID": 10,
@@ -106,8 +106,8 @@
     "LONGITUDE": -113.9846398,
     "GROUP": "Service Site",
     "TOTAL ORG IMPACTED": 2,
-    "Source": "",
-    "Target": ""
+    "Source": 10,
+    "Target": 10
   },
   {
     "ID": 11,
@@ -116,8 +116,8 @@
     "LONGITUDE": -114.0976027,
     "GROUP": "Service Site",
     "TOTAL ORG IMPACTED": 1,
-    "Source": "",
-    "Target": ""
+    "Source": 11,
+    "Target": 11
   },
   {
     "ID": 12,
@@ -126,8 +126,8 @@
     "LONGITUDE": -113.9838833,
     "GROUP": "Service Site",
     "TOTAL ORG IMPACTED": 1,
-    "Source": "",
-    "Target": ""
+    "Source": 12,
+    "Target": 12
   },
   {
     "ID": 13,
@@ -136,8 +136,8 @@
     "LONGITUDE": -113.9827811,
     "GROUP": "Service Site",
     "TOTAL ORG IMPACTED": 2,
-    "Source": "",
-    "Target": ""
+    "Source": 13,
+    "Target": 13
   },
   {
     "ID": 14,
@@ -146,8 +146,8 @@
     "LONGITUDE": -113.9770737,
     "GROUP": "Service Site",
     "TOTAL ORG IMPACTED": 1,
-    "Source": "",
-    "Target": ""
+    "Source": 14,
+    "Target": 14
   },
   {
     "ID": 15,
@@ -155,7 +155,7 @@
     "LATITUDE": 46.86564068,
     "LONGITUDE": -113.9770737,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 0,
     "Target": 15
   },
@@ -165,7 +165,7 @@
     "LATITUDE": 48.55186017,
     "LONGITUDE": -113.0093722,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 0,
     "Target": 16
   },
@@ -175,7 +175,7 @@
     "LATITUDE": 46.31100695,
     "LONGITUDE": -113.9742986,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 0,
     "Target": 17
   },
@@ -185,7 +185,7 @@
     "LATITUDE": 47.16195525,
     "LONGITUDE": -114.0871546,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 1,
     "Target": 18
   },
@@ -195,7 +195,7 @@
     "LATITUDE": 46.84286339,
     "LONGITUDE": -114.0560437,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 2,
     "Target": 19
   },
@@ -205,7 +205,7 @@
     "LATITUDE": 46.85957067,
     "LONGITUDE": -113.9948286,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 2,
     "Target": 20
   },
@@ -215,7 +215,7 @@
     "LATITUDE": 46.87083718,
     "LONGITUDE": -113.9903465,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 2,
     "Target": 21
   },
@@ -225,7 +225,7 @@
     "LATITUDE": 46.8612074,
     "LONGITUDE": -113.9822567,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 2,
     "Target": 22
   },
@@ -235,7 +235,7 @@
     "LATITUDE": 46.87187884,
     "LONGITUDE": -113.9965429,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 2,
     "Target": 23
   },
@@ -245,7 +245,7 @@
     "LATITUDE": null,
     "LONGITUDE": null,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 2,
     "Target": 24
   },
@@ -255,7 +255,7 @@
     "LATITUDE": 46.86985528,
     "LONGITUDE": -113.9898416,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 2,
     "Target": 25
   },
@@ -265,7 +265,7 @@
     "LATITUDE": 46.87245848,
     "LONGITUDE": -113.9923734,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 2,
     "Target": 26
   },
@@ -275,7 +275,7 @@
     "LATITUDE": 47.5060302,
     "LONGITUDE": -111.2825116,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 3,
     "Target": 27
   },
@@ -285,7 +285,7 @@
     "LATITUDE": 47.48600004,
     "LONGITUDE": -111.2698227,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 3,
     "Target": 28
   },
@@ -295,7 +295,7 @@
     "LATITUDE": 47.52027038,
     "LONGITUDE": -111.3192399,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 3,
     "Target": 29
   },
@@ -305,7 +305,7 @@
     "LATITUDE": 47.48862379,
     "LONGITUDE": -111.3003589,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 3,
     "Target": 30
   },
@@ -315,7 +315,7 @@
     "LATITUDE": 47.49239362,
     "LONGITUDE": -111.2505824,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 3,
     "Target": 31
   },
@@ -325,7 +325,7 @@
     "LATITUDE": null,
     "LONGITUDE": null,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 3,
     "Target": 32
   },
@@ -335,7 +335,7 @@
     "LATITUDE": 47.48810543,
     "LONGITUDE": -111.2632207,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 3,
     "Target": 33
   },
@@ -345,7 +345,7 @@
     "LATITUDE": 47.50303075,
     "LONGITUDE": -111.3086125,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 3,
     "Target": 34
   },
@@ -355,7 +355,7 @@
     "LATITUDE": 47.49258956,
     "LONGITUDE": -111.3027578,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 3,
     "Target": 35
   },
@@ -365,7 +365,7 @@
     "LATITUDE": null,
     "LONGITUDE": null,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 3,
     "Target": 36
   },
@@ -375,7 +375,7 @@
     "LATITUDE": 47.49678795,
     "LONGITUDE": -111.2904686,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 3,
     "Target": 37
   },
@@ -385,7 +385,7 @@
     "LATITUDE": 46.87762882,
     "LONGITUDE": -114.0195175,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 4,
     "Target": 38
   },
@@ -395,7 +395,7 @@
     "LATITUDE": 46.86903499,
     "LONGITUDE": -114.0311628,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 4,
     "Target": 39
   },
@@ -405,7 +405,7 @@
     "LATITUDE": 48.19698711,
     "LONGITUDE": -114.3110319,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 5,
     "Target": 40
   },
@@ -415,7 +415,7 @@
     "LATITUDE": 46.85229428,
     "LONGITUDE": -114.0102792,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 6,
     "Target": 41
   },
@@ -425,7 +425,7 @@
     "LATITUDE": 46.8607045,
     "LONGITUDE": -113.9832855,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 7,
     "Target": 42
   },
@@ -435,7 +435,7 @@
     "LATITUDE": 46.86736846,
     "LONGITUDE": -114.0093094,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 7,
     "Target": 43
   },
@@ -445,7 +445,7 @@
     "LATITUDE": 46.31108332,
     "LONGITUDE": -114.1107379,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 7,
     "Target": 44
   },
@@ -455,7 +455,7 @@
     "LATITUDE": 46.7750501,
     "LONGITUDE": -114.1074386,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 7,
     "Target": 45
   },
@@ -465,7 +465,7 @@
     "LATITUDE": 46.83740409,
     "LONGITUDE": -114.0321636,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 7,
     "Target": 46
   },
@@ -475,7 +475,7 @@
     "LATITUDE": 46.86835672,
     "LONGITUDE": -114.0249404,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 7,
     "Target": 47
   },
@@ -485,7 +485,7 @@
     "LATITUDE": null,
     "LONGITUDE": null,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 8,
     "Target": 48
   },
@@ -495,7 +495,7 @@
     "LATITUDE": 45.79253039,
     "LONGITUDE": -108.520199,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 8,
     "Target": 49
   },
@@ -505,7 +505,7 @@
     "LATITUDE": 45.77015372,
     "LONGITUDE": -108.5332663,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 8,
     "Target": 50
   },
@@ -515,7 +515,7 @@
     "LATITUDE": 48.29198603,
     "LONGITUDE": -109.8413739,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 8,
     "Target": 51
   },
@@ -525,7 +525,7 @@
     "LATITUDE": 48.13072125,
     "LONGITUDE": -105.4964849,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 8,
     "Target": 52
   },
@@ -535,7 +535,7 @@
     "LATITUDE": 45.78312006,
     "LONGITUDE": -108.502447,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 8,
     "Target": 53
   },
@@ -545,7 +545,7 @@
     "LATITUDE": 46.58949637,
     "LONGITUDE": -112.0188804,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 8,
     "Target": 54
   },
@@ -555,7 +555,7 @@
     "LATITUDE": 48.29198603,
     "LONGITUDE": -109.8413739,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 8,
     "Target": 55
   },
@@ -565,7 +565,7 @@
     "LATITUDE": 45.66754359,
     "LONGITUDE": -111.0545675,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 8,
     "Target": 56
   },
@@ -575,7 +575,7 @@
     "LATITUDE": 48.13072125,
     "LONGITUDE": -105.4964849,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 8,
     "Target": 57
   },
@@ -585,7 +585,7 @@
     "LATITUDE": 45.60542142,
     "LONGITUDE": -107.4585185,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 8,
     "Target": 58
   },
@@ -595,7 +595,7 @@
     "LATITUDE": 47.50863068,
     "LONGITUDE": -111.3229203,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 8,
     "Target": 59
   },
@@ -605,7 +605,7 @@
     "LATITUDE": 45.88248274,
     "LONGITUDE": -108.5175319,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 8,
     "Target": 60
   },
@@ -615,7 +615,7 @@
     "LATITUDE": 45.88248274,
     "LONGITUDE": -108.5175319,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 8,
     "Target": 61
   },
@@ -625,7 +625,7 @@
     "LATITUDE": 45.88248274,
     "LONGITUDE": -108.5175319,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 8,
     "Target": 62
   },
@@ -635,7 +635,7 @@
     "LATITUDE": 45.88248274,
     "LONGITUDE": -108.5175319,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 8,
     "Target": 63
   },
@@ -645,7 +645,7 @@
     "LATITUDE": 45.83240065,
     "LONGITUDE": -108.5155417,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 8,
     "Target": 64
   },
@@ -655,7 +655,7 @@
     "LATITUDE": 45.88248274,
     "LONGITUDE": -108.5175319,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 8,
     "Target": 65
   },
@@ -665,7 +665,7 @@
     "LATITUDE": 46.57902381,
     "LONGITUDE": -112.0417865,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 8,
     "Target": 66
   },
@@ -675,7 +675,7 @@
     "LATITUDE": 45.78036313,
     "LONGITUDE": -108.5489216,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 8,
     "Target": 67
   },
@@ -685,7 +685,7 @@
     "LATITUDE": 45.88248274,
     "LONGITUDE": -108.5175319,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 8,
     "Target": 68
   },
@@ -695,7 +695,7 @@
     "LATITUDE": 45.79581419,
     "LONGITUDE": -108.5247078,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 8,
     "Target": 69
   },
@@ -705,7 +705,7 @@
     "LATITUDE": 45.79581419,
     "LONGITUDE": -108.5247078,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 8,
     "Target": 70
   },
@@ -715,7 +715,7 @@
     "LATITUDE": 45.79581419,
     "LONGITUDE": -108.5247078,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 8,
     "Target": 71
   },
@@ -725,7 +725,7 @@
     "LATITUDE": 45.78208956,
     "LONGITUDE": -108.5755962,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 8,
     "Target": 72
   },
@@ -735,7 +735,7 @@
     "LATITUDE": 45.75024333,
     "LONGITUDE": -107.607224,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 8,
     "Target": 73
   },
@@ -745,7 +745,7 @@
     "LATITUDE": null,
     "LONGITUDE": null,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 8,
     "Target": 74
   },
@@ -755,7 +755,7 @@
     "LATITUDE": 48.04502166,
     "LONGITUDE": -108.7083905,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 8,
     "Target": 75
   },
@@ -765,7 +765,7 @@
     "LATITUDE": 45.78196856,
     "LONGITUDE": -108.505359,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 8,
     "Target": 76
   },
@@ -775,7 +775,7 @@
     "LATITUDE": 45.75024333,
     "LONGITUDE": -107.607224,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 8,
     "Target": 77
   },
@@ -785,7 +785,7 @@
     "LATITUDE": 45.88248274,
     "LONGITUDE": -108.5175319,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 8,
     "Target": 78
   },
@@ -795,7 +795,7 @@
     "LATITUDE": 45.78327584,
     "LONGITUDE": -108.5024772,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 8,
     "Target": 79
   },
@@ -805,7 +805,7 @@
     "LATITUDE": 45.78321042,
     "LONGITUDE": -108.5097987,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 8,
     "Target": 80
   },
@@ -815,7 +815,7 @@
     "LATITUDE": 45.62553013,
     "LONGITUDE": -106.6646696,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 8,
     "Target": 81
   },
@@ -825,7 +825,7 @@
     "LATITUDE": 45.88248274,
     "LONGITUDE": -108.5175319,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 8,
     "Target": 82
   },
@@ -835,7 +835,7 @@
     "LATITUDE": 45.88248274,
     "LONGITUDE": -108.5175319,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 8,
     "Target": 83
   },
@@ -845,7 +845,7 @@
     "LATITUDE": 45.78345917,
     "LONGITUDE": -108.502445,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 8,
     "Target": 84
   },
@@ -855,7 +855,7 @@
     "LATITUDE": 45.88248274,
     "LONGITUDE": -108.5175319,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 8,
     "Target": 85
   },
@@ -865,7 +865,7 @@
     "LATITUDE": 46.59315992,
     "LONGITUDE": -112.0405572,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 8,
     "Target": 86
   },
@@ -875,7 +875,7 @@
     "LATITUDE": 46.59315992,
     "LONGITUDE": -112.0405572,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 8,
     "Target": 87
   },
@@ -885,7 +885,7 @@
     "LATITUDE": 45.9843501,
     "LONGITUDE": -112.4865923,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 9,
     "Target": 88
   },
@@ -895,7 +895,7 @@
     "LATITUDE": 47.83715948,
     "LONGITUDE": -115.5920639,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 9,
     "Target": 89
   },
@@ -905,7 +905,7 @@
     "LATITUDE": 46.01170252,
     "LONGITUDE": -112.5574969,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 9,
     "Target": 90
   },
@@ -915,7 +915,7 @@
     "LATITUDE": 46.36071617,
     "LONGITUDE": -112.6926372,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 9,
     "Target": 91
   },
@@ -925,7 +925,7 @@
     "LATITUDE": 47.69486333,
     "LONGITUDE": -114.1641703,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 9,
     "Target": 92
   },
@@ -935,7 +935,7 @@
     "LATITUDE": 48.19694431,
     "LONGITUDE": -114.3111394,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 9,
     "Target": 93
   },
@@ -945,7 +945,7 @@
     "LATITUDE": 46.0115199,
     "LONGITUDE": -112.5576793,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 9,
     "Target": 94
   },
@@ -955,7 +955,7 @@
     "LATITUDE": 46.8743705,
     "LONGITUDE": -113.9922631,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 9,
     "Target": 95
   },
@@ -965,7 +965,7 @@
     "LATITUDE": 45.1859615,
     "LONGITUDE": -109.2534237,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 9,
     "Target": 96
   },
@@ -975,7 +975,7 @@
     "LATITUDE": 48.55154561,
     "LONGITUDE": -109.6774491,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 9,
     "Target": 97
   },
@@ -985,7 +985,7 @@
     "LATITUDE": 45.66185584,
     "LONGITUDE": -110.5573588,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 9,
     "Target": 98
   },
@@ -995,7 +995,7 @@
     "LATITUDE": 48.12420101,
     "LONGITUDE": -105.1845936,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 9,
     "Target": 99
   },
@@ -1005,7 +1005,7 @@
     "LATITUDE": 46.01403955,
     "LONGITUDE": -112.5360146,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 9,
     "Target": 100
   },
@@ -1015,7 +1015,7 @@
     "LATITUDE": 45.87005899,
     "LONGITUDE": -112.0998604,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 9,
     "Target": 101
   },
@@ -1025,7 +1025,7 @@
     "LATITUDE": 45.18674209,
     "LONGITUDE": -109.245983,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 9,
     "Target": 102
   },
@@ -1035,7 +1035,7 @@
     "LATITUDE": 45.98323336,
     "LONGITUDE": -112.527631,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 9,
     "Target": 103
   },
@@ -1045,7 +1045,7 @@
     "LATITUDE": 46.00076793,
     "LONGITUDE": -112.5395754,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 9,
     "Target": 104
   },
@@ -1055,7 +1055,7 @@
     "LATITUDE": null,
     "LONGITUDE": null,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 9,
     "Target": 105
   },
@@ -1065,7 +1065,7 @@
     "LATITUDE": 45.99863154,
     "LONGITUDE": -112.5418575,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 9,
     "Target": 106
   },
@@ -1075,7 +1075,7 @@
     "LATITUDE": 46.01200687,
     "LONGITUDE": -112.5396123,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 9,
     "Target": 107
   },
@@ -1085,7 +1085,7 @@
     "LATITUDE": 45.99923107,
     "LONGITUDE": -112.5394404,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 9,
     "Target": 108
   },
@@ -1095,7 +1095,7 @@
     "LATITUDE": 46.01480154,
     "LONGITUDE": -112.5388441,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 9,
     "Target": 109
   },
@@ -1105,7 +1105,7 @@
     "LATITUDE": 45.99921422,
     "LONGITUDE": -112.5355653,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 9,
     "Target": 110
   },
@@ -1115,7 +1115,7 @@
     "LATITUDE": 46.01536888,
     "LONGITUDE": -112.5387345,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 9,
     "Target": 111
   },
@@ -1125,7 +1125,7 @@
     "LATITUDE": 46.01478769,
     "LONGITUDE": -112.5388096,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 9,
     "Target": 112
   },
@@ -1135,7 +1135,7 @@
     "LATITUDE": 46.01478769,
     "LONGITUDE": -112.5388096,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 9,
     "Target": 113
   },
@@ -1145,7 +1145,7 @@
     "LATITUDE": 46.8591642,
     "LONGITUDE": -114.045553,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 9,
     "Target": 114
   },
@@ -1155,7 +1155,7 @@
     "LATITUDE": 46.86204459,
     "LONGITUDE": -113.9846398,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 10,
     "Target": 115
   },
@@ -1165,7 +1165,7 @@
     "LATITUDE": 46.87064016,
     "LONGITUDE": -113.992019,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 10,
     "Target": 116
   },
@@ -1175,7 +1175,7 @@
     "LATITUDE": 47.51844074,
     "LONGITUDE": -114.0976027,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 11,
     "Target": 117
   },
@@ -1185,7 +1185,7 @@
     "LATITUDE": 46.86076565,
     "LONGITUDE": -113.9838833,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 12,
     "Target": 118
   },
@@ -1195,7 +1195,7 @@
     "LATITUDE": 46.86088003,
     "LONGITUDE": -113.9827811,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 13,
     "Target": 119
   },
@@ -1205,7 +1205,7 @@
     "LATITUDE": 46.86073121,
     "LONGITUDE": -113.9833067,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 13,
     "Target": 120
   },
@@ -1215,7 +1215,7 @@
     "LATITUDE": 46.86564068,
     "LONGITUDE": -113.9770737,
     "GROUP": "Impacted Organization",
-    "TOTAL ORG IMPACTED": "",
+    "TOTAL ORG IMPACTED": null,
     "Source": 14,
     "Target": 121
   }
